@@ -10,7 +10,7 @@ I am a Postdoc researcher in [Natural Language Processing](https://www.sheffield
 
 ## Research Interest
 
-Model explanation, model bias.
+Model explanation, model bias, rationale faithfulness, misinformation detection.
 
 ## Publications
 
@@ -26,14 +26,39 @@ Zhao, Z., Zhang, Z., Hopfgartner, F. (2021). A Comparative Study of Using Pre-tr
 
 Zhao, Z., Zhang, Z., Hopfgartner, F. (2019). Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. In Proceedings of 20th International Conference on Computational Linguistics and Intelligent Text Processing, La Rochelle, France [paper](http://google.com)
 
-## Typography
+## Research Experience
 
+Postdoc Researcher 01/2022~02/2024 (expected)	
+Department of Computer Science, The University of Sheffield 
+Explanable NLP 
+This research is part of a large interdisciplinary project, “Social Explainable Artificial Intelligence”, funded
+by the EPSRC. The overall goal of this project is to explore a wide range of research directions on modelling disinformation diffusion, with a focus on developing explainable ML models. I work independently and with supervision on programming and compiling papers.
 
-Here is a horizontal rule
+Research Assistant 07/2022~08/2022    	
+English and American Studies Team, The University of Manchester 	
+Nineteenth-Century Nature Writing in English and Twenty-First-Century Environmentalism
+This pilot project aims to open out research questions for a larger project on women’s nature writing in the long nineteenth century. My duty focuses on pre-processing related text and exploratory research on the related corpus, such as temporal shift and geographic drift.
 
----
+Research Assistant 07/2021~12/2021
+Department of Computer Science, The University of Sheffield
+Automatically mapping and assessing inequalities in public health research          
+This is a multidiscipline project, collaborated with UCL and King's College, funded by National Institute for Health Research. This project aims to develop automated methods to find, organize and describe scientific literature relevant to public health and understand its findings in relation to inequalities in health. Particularly, NLP techniques will be used to automatically organize these documents into topics, identify the research method used and identify whether it contains information about factors related to health inequalities at scale. My role was for programming and analysis.
 
-## References
+Research Assistant 11/2020~03/2021      
+Department of Computer Science, The University of Sheffield
+Text Processing for Health Technology Assessment         
+The TePHTA is a cross-discipline study with researchers from the Computer Science Department and the School of Health and Related Research, University of Sheffield. This project aims to improve healthcare decision-making through natural language processing. I participate in a part of this project, the medical system review analysis, which utilizes machine learning to assist experts in healthy to gain insights from a massive volume of medical literature regarding employees' health situations and working conditions. I was in charge of programming and analysis.
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Teaching Experience
+
+Information School, The University of Sheffield, Sheffield
+Teaching Assistant (for below modules)
+INF4002 Introduction to programming
+INF6027 Introduction to data science
+INF6060 Information retrieval
+INF6028 Data mining and visualization
+INF6032 Big data analytics
+INF6050 Database design
+INF6024 Researching social media
+INF109 Digital media and society
+
