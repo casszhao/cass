@@ -6,16 +6,17 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpg">
 
-I am a Postdoc researcher in the Department of Computer Science, at the University of Sheffield. I work with [Prof. Nikos Aletras](https://github.com/bk2dcradle/researcher) on developing explainable NLP models. Before my postdoc, I worked as a research assistant in the same department on building a retrieval system for public health research, funded by National Institute for Health Research. My PhD research applied transfer learning to hate speech detection tasks and investigated model bias.
+I am a Postdoc researcher in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. I work with [Prof. Nikos Aletras](https://github.com/bk2dcradle/researcher) on developing explainable NLP models. Before my postdoc, I worked as a research assistant in the same department on building a retrieval system for public health research, funded by National Institute for Health Research. My PhD research applied transfer learning to hate speech detection tasks and investigated model bias.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Model explanation, model bias.
 
 ## Publications
 
-1. Zhao, Z., K. Bontcheva and N. Aletras (2022). Synergizing Importance Degrees on Evaluating Feature Attribution. Association for Computational Linguistics, ACL 2023. (on going).
-2. Zhao, Z., G. Chrysostomou, K. Bontcheva and N. Aletras (2022). On the Impact of Temporal Concept Drift on Model Explanations. In Findings of the Association for Computational Linguistics: EMNLP 2022.
+Zhao, Z., K. Bontcheva and N. Aletras (2022). Synergizing Importance Degrees on Evaluating Feature Attribution. Association for Computational Linguistics, ACL 2023. (on going).
+
+Zhao, Z., G. Chrysostomou, K. Bontcheva and N. Aletras (2022). On the Impact of Temporal Concept Drift on Model Explanations. In Findings of the Association for Computational Linguistics: EMNLP 2022. [paper](https://github.com/bk2dcradle/researcher](https://aclanthology.org/2022.findings-emnlp.298/)
 
 Clowes, M., Stansfield, C., Thomas, J., Shemilt, I., Paisley, S., Stevenson, M., Zhao, Z., Marshall, I., Kell, G., (June 2022). All is FAIR in health inequalities research: using machine learning to build a new database of health equity studies. European Association for Health Information and Libraries 2022.
 
