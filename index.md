@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpg">
 
-I am a Postdoc researcher in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. I work with [Prof. Nikos Aletras](https://github.com/bk2dcradle/researcher) on developing explainable NLP models. Before my postdoc, I worked as a research assistant in the same department on building a retrieval system for public health research, funded by National Institute for Health Research. My PhD research applied transfer learning to hate speech detection tasks and investigated model bias, which was fully funded.
+I am a Postdoc researcher in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. I work with [Prof. Nikos Aletras](https://github.com/bk2dcradle/researcher) on developing explainable NLP models. Before my postdoc, I worked as a research assistant in the same department on building a retrieval system for public health research, funded by National Institute for Health Research.
+My PhD research applied transfer learning to hate speech detection tasks and investigated model bias, which was fully funded.
 
 ## Research Interest
 
