@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am a Postdoc researcher in the Department of Computer Science, at the University of Sheffield. I work with Prof. Nikos Aletras on developing explainable NLP models. Before my postdoc, I worked as a research assistant in the same department on building a retrieval system for public health research, funded by National Institute for Health Research. My PhD research applied transfer learning to hate speech detection tasks and investigated model bias. [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
