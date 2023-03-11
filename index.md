@@ -14,7 +14,8 @@ Model explanation, model bias, rationale faithfulness, misinformation detection.
 
 
 
-<font color=Blue>Test</font>
+<font color=White>Test</font>
+<font color=White>Test</font>
 
 ## Publications
 
@@ -30,6 +31,7 @@ Zhao, Z., Zhang, Z., Hopfgartner, F. (2021). A Comparative Study of Using Pre-tr
 
 Zhao, Z., Zhang, Z., Hopfgartner, F. (2019). Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. In Proceedings of 20th International Conference on Computational Linguistics and Intelligent Text Processing, La Rochelle, France [paper](https://easychair.org/publications/preprint/XGmR)
 
+<font color=White>Test</font>
 ## Research Experience
 
 
@@ -76,6 +78,7 @@ Text Processing for Health Technology Assessment
 
 The TePHTA is a cross-discipline study with researchers from the Computer Science Department and the School of Health and Related Research, University of Sheffield. This project aims to improve healthcare decision-making through natural language processing. I participate in a part of this project, the medical system review analysis, which utilizes machine learning to assist experts in healthy to gain insights from a massive volume of medical literature regarding employees' health situations and working conditions. I was in charge of programming and analysis.
 
+<font color=White>Test</font>
 ## Teaching Experience
 
 Information School, The University of Sheffield, Sheffield
