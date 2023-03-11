@@ -14,8 +14,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Zhao, Z., K. Bontcheva and N. Aletras (2022). Synergizing Importance Degrees on Evaluating Feature Attribution. Association for Computational Linguistics, ACL 2023. (on going).
+2. Zhao, Z., G. Chrysostomou, K. Bontcheva and N. Aletras (2022). On the Impact of Temporal Concept Drift on Model Explanations. In Findings of the Association for Computational Linguistics: EMNLP 2022.
+
+Clowes, M., Stansfield, C., Thomas, J., Shemilt, I., Paisley, S., Stevenson, M., Zhao, Z., Marshall, I., Kell, G., (June 2022). All is FAIR in health inequalities research: using machine learning to build a new database of health equity studies. European Association for Health Information and Libraries 2022.
+
+Zhao, Z., Zhang, Z., Hopfgartner, F. (2022). Utilizing Subjectivity Level to Mitigate Identity Term Bias in Toxic Comments Classification. Online Social Networks and Media, 29, 100205.
+
+Zhao, Z., Zhang, Z., Hopfgartner, F. (2021). A Comparative Study of Using Pre-trained Language Models for Toxic Comment Classification. In Companion Proceedings of the Web Conference 2021 (pp. 500-507)
+
+Zhao, Z., Zhang, Z., Hopfgartner, F. (2019). Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. In Proceedings of 20th International Conference on Computational Linguistics and Intelligent Text Processing, La Rochelle, France
 
 ## Typography
 
