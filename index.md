@@ -11,7 +11,7 @@ My PhD research applied transfer learning to hate speech detection tasks and inv
 
 ## Research Interest
 
-`Model explanation`   `model bias`   'rationale faithfulness'   'misinformation detection'
+Model explanation, Model bias, Rationale faithfulness, Misinformation detection
 
 
 
