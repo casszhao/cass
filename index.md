@@ -11,7 +11,7 @@ My PhD research applied transfer learning to hate speech detection tasks and inv
 
 ## Research Interest
 
-Model explanation, model bias, rationale faithfulness, misinformation detection.
+'Model explanation'   'model bias'   'rationale faithfulness'   'misinformation detection'
 
 
 
@@ -37,11 +37,12 @@ Zhao, Z., Zhang, Z., Hopfgartner, F. (2019). Detecting Toxic Content Online and 
 
 
 #### Postdoc Researcher
-01/2022~02/2024
 
 Department of Computer Science, The University of Sheffield
 
 Explanable NLP
+
+01/2022~02/2024
 
 This research is part of a large interdisciplinary project, “Social Explainable Artificial Intelligence”, funded
 by the EPSRC. The overall goal of this project is to explore a wide range of research directions on modelling disinformation diffusion, with a focus on developing explainable ML models. I work independently and with supervision on programming and compiling papers.
@@ -82,11 +83,16 @@ The TePHTA is a cross-discipline study with researchers from the Computer Scienc
 <font color=White>Test</font>
 ## Teaching Experience
 
-Information School, The University of Sheffield, Sheffield
+#### Guest lecturer
+Department of Computer Science, The University of Sheffield
+Natural Language Processing
+
 
 #### Postgraduate dissertation supervisor
+Information School, The University of Sheffield
 
 #### Teaching Assistant (for below postgraduate modules)
+Information School, The University of Sheffield
 
 - INF4002 Introduction to programming
 - INF6027 Introduction to data science
