@@ -50,46 +50,51 @@ by the EPSRC. The overall goal of this project is to explore a wide range of res
 
 
 #### Research Assistant 
-07/2022~08/2022
 
 English and American Studies Team, The University of Manchester
 
 Nineteenth-Century Nature Writing in English and Twenty-First-Century Environmentalism
+
+07/2022~08/2022
 
 This pilot project aims to open out research questions for a larger project on women’s nature writing in the long nineteenth century. My duty focuses on pre-processing related text and exploratory research on the related corpus, such as temporal shift and geographic drift.
 
 
 
 #### Research Assistant 
-07/2021~12/2021
 
 Department of Computer Science, The University of Sheffield
 
 Automatically mapping and assessing inequalities in public health research
 
+07/2021~12/2021
+
 This is a multidiscipline project, collaborated with UCL and King's College, funded by National Institute for Health Research. This project aims to develop automated methods to find, organize and describe scientific literature relevant to public health and understand its findings in relation to inequalities in health. Particularly, NLP techniques will be used to automatically organize these documents into topics, identify the research method used and identify whether it contains information about factors related to health inequalities at scale. My role was for programming and analysis.
 
 
 
-**Research Assistant** Department of Computer Science, The University of Sheffield
-11/2020~03/2021
+**Research Assistant** 
+
+Department of Computer Science, The University of Sheffield
 
 Text Processing for Health Technology Assessment
 
+11/2020~03/2021
+
 The TePHTA is a cross-discipline study with researchers from the Computer Science Department and the School of Health and Related Research, University of Sheffield. This project aims to improve healthcare decision-making through natural language processing. I participate in a part of this project, the medical system review analysis, which utilizes machine learning to assist experts in healthy to gain insights from a massive volume of medical literature regarding employees' health situations and working conditions. I was in charge of programming and analysis.
+
 
 <font color=White>Test</font>
 ## Teaching Experience
 
 #### Guest lecturer
 Department of Computer Science, The University of Sheffield
-Natural Language Processing
-
+- COM4513/6513 Natural Language Processing
 
 #### Postgraduate dissertation supervisor
 Information School, The University of Sheffield
 
-#### Teaching Assistant (for below postgraduate modules)
+#### Teaching Assistant 
 Information School, The University of Sheffield
 
 - INF4002 Introduction to programming
