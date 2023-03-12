@@ -11,7 +11,7 @@ My PhD research applied transfer learning to hate speech detection tasks and inv
 
 ## Research Interest
 
-'Model explanation'   'model bias'   'rationale faithfulness'   'misinformation detection'
+`Model explanation`   `model bias`   'rationale faithfulness'   'misinformation detection'
 
 
 
@@ -71,10 +71,8 @@ This is a multidiscipline project, collaborated with UCL and King's College, fun
 
 
 
-#### Research Assistant 
+**Research Assistant** Department of Computer Science, The University of Sheffield
 11/2020~03/2021
-
-Department of Computer Science, The University of Sheffield
 
 Text Processing for Health Technology Assessment
 
