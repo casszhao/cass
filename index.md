@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpg">
 
-I am a Postdoc researcher in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. I work with [Prof. Nikos Aletras](https://github.com/bk2dcradle/researcher) on developing explainable NLP models. Before my postdoc, I worked as a research assistant in the same department on building a retrieval system for public health research, funded by National Institute for Health Research.
+I am a Postdoc researcher in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. I work with [Prof. Nikos Aletras](https://nikosaletras.com/) on developing explainable NLP models. Before my postdoc, I worked as a research assistant in the same department on building a retrieval system for systematical review on public health research, funded by National Institute for Health Research.
 My PhD research applied transfer learning to hate speech detection tasks and investigated model bias, which was fully funded.
 
 ## Research Interest
@@ -83,6 +83,9 @@ Text Processing for Health Technology Assessment
 
 The TePHTA is a cross-discipline study with researchers from the Computer Science Department and the School of Health and Related Research, University of Sheffield. This project aims to improve healthcare decision-making through natural language processing. I participate in a part of this project, the medical system review analysis, which utilizes machine learning to assist experts in healthy to gain insights from a massive volume of medical literature regarding employees' health situations and working conditions. I was in charge of programming and analysis.
 
+<font color=White>Test</font>
+## Reviewing
+EMNLP2022 ACL2023
 
 <font color=White>Test</font>
 ## Teaching Experience
