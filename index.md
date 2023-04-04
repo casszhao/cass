@@ -85,7 +85,8 @@ The TePHTA is a cross-discipline study with researchers from the Computer Scienc
 
 <font color=White>Test</font>
 ## Reviewing
-EMNLP2022 ACL2023
+- EMNLP2022 
+- ACL2023
 
 <font color=White>Test</font>
 ## Teaching Experience
