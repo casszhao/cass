@@ -1,5 +1,5 @@
 title: Cass Zhao
-url: "https://ankitsultana.com"
+url: "https://casszhao.github.io/researcher/"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
+ - name: "Publications"
+   link: "/publications/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
