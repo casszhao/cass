@@ -4,8 +4,6 @@ is_contact: true
 ---
 
 
-<font color=White>Test</font>
-<font color=White>Test</font>
 
 ## Publications
 
