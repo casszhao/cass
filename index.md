@@ -80,22 +80,22 @@ Text Processing for Health Technology Assessment
 
 The TePHTA is a cross-discipline study with researchers from the Computer Science Department and the School of Health and Related Research, University of Sheffield. This project aims to improve healthcare decision-making through natural language processing. I participate in a part of this project, the medical system review analysis, which utilizes machine learning to assist experts in healthy to gain insights from a massive volume of medical literature regarding employees' health situations and working conditions. I was in charge of programming and analysis.
 
-<font color=White>Test</font>
-## Reviewing
-- EMNLP2022 
-- ACL2023
+
 
 <font color=White>Test</font>
 ## Teaching Experience
 
 #### Guest lecturer
-Department of Computer Science, The University of Sheffield
+Department of Computer Science, The University of Sheffield (Spring 2023)
 - COM4513/6513 Natural Language Processing
 
-#### Postgraduate dissertation supervisor
+Information School, The University of Sheffield (Fall 2022)
+- INF6028 Data mining and visualization
+
+#### Postgraduate dissertation supervisor, 2023
 Information School, The University of Sheffield
 
-#### Teaching Assistant 
+#### Teaching Assistant 2019-2022
 Information School, The University of Sheffield
 
 - INF4002 Introduction to programming
@@ -107,3 +107,8 @@ Information School, The University of Sheffield
 - INF6024 Researching social media
 - INF109 Digital media and society
 
+
+<font color=White>Test</font>
+## Extra
+- Reviewing: EMNLP2022, ACL2023
+- Communications Officer of [Staff Race Equality Network](https://staff.sheffield.ac.uk/staff-race-equality-network) The University of Sheffield
