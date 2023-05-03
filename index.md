@@ -20,13 +20,14 @@ Model explanation, Model bias, Rationale faithfulness, Misinformation detection
 
 ## Recent Publications
 
-Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics. ACL2023, [camera-ready and code coming soon](https://2023.aclweb.org/)
+Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics. ACL2023. [camera-ready and code coming soon](https://2023.aclweb.org/)
 
 Zhao, Z., G. Chrysostomou, K. Bontcheva and N. Aletras (2022). On the Impact of Temporal Concept Drift on Model Explanations. In Findings of the Association for Computational Linguistics: EMNLP 2022. [paper](https://aclanthology.org/2022.findings-emnlp.298/)
 
 Zhao, Z., Zhang, Z., Hopfgartner, F. (2022). Utilizing Subjectivity Level to Mitigate Identity Term Bias in Toxic Comments Classification. Online Social Networks and Media, 29, 100205. [paper](https://www.sciencedirect.com/science/article/abs/pii/S246869642200009X)
 
-Find more in [publications](https://casszhao.github.io/researcher/publications).
+
+(More papers in [publications](https://casszhao.github.io/researcher/publications).)
 
 
 <font color=White>Test</font>
@@ -75,7 +76,7 @@ Text Processing for Health Technology Assessment
 
 
 
-See details in [resume]([https://casszhao.github.io/researcher/publications](https://casszhao.github.io/researcher/resume.pdf)).
+(See details in [resume](https://casszhao.github.io/researcher/resume.pdf)).
 
 
 
