@@ -13,7 +13,7 @@ is_contact: true
 
 [Twitter](https://twitter.com/casszzx)
 
-[Google](https://scholar.google.co.uk/citations?user=jST9K64AAAAJ&hl=en&oi=ao)
+[Google](https://scholar.google.com/citations?user=bwiMxxsAAAAJ&hl=en&oi=ao)
 
 
 ## University
