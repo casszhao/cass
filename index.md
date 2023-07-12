@@ -20,7 +20,7 @@ Model explanation, Model bias, Rationale faithfulness, Misinformation detection
 
 ## Recent Publications
 
-Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics. ACL2023. [paper](https://arxiv.org/abs/2305.10496)
+Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics. ACL2023. [paper](https://aclanthology.org/2023.acl-long.261/)
 
 Zhao, Z., G. Chrysostomou, K. Bontcheva and N. Aletras (2022). On the Impact of Temporal Concept Drift on Model Explanations. In Findings of the Association for Computational Linguistics: EMNLP 2022. [paper](https://aclanthology.org/2022.findings-emnlp.298/)
 
