@@ -12,7 +12,7 @@ I've served as a reviewer for AAAI, ACL, and EMNLP.
 
 ## Research Interest
 
-Trustworthy AI, Model explanation, Model bias, Faithfulness evaluation, Text generation, Hallucination
+Trustworthy AI, Model explanation, Model bias, Faithfulness evaluation, Text generation
 
 
 
@@ -67,7 +67,7 @@ Automatically mapping and assessing inequalities in public health research
 
 
 
-**Research Assistant** 
+#### Research Assistant
 
 Department of Computer Science, The University of Sheffield
 
