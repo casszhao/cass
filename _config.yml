@@ -1,6 +1,6 @@
 title: Cass Zhao
-url: "casszhao.github.io/researcher/"
-baseurl: "/researcher"
+url: "casszhao.github.io/cass/"
+baseurl: "/cass"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/cass"
  - name: "Publications"
    link: "publications"
  - name: "Resume"
