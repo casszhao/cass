@@ -32,10 +32,10 @@ Zhao, Z., G. Chrysostomou, K. Bontcheva and N. Aletras (2022). On the Impact of 
 
 Zhao, Z., Zhang, Z., Hopfgartner, F. (2022). Utilizing Subjectivity Level to Mitigate Identity Term Bias in Toxic Comments Classification. Online Social Networks and Media, 29, 100205. [journal paper](https://www.sciencedirect.com/science/article/abs/pii/S246869642200009X)
 
-Zhao, Z., Zhang, Z., Hopfgartner, F. (2021). A Comparative Study of Using Pre-trained Language Models for Toxic Comment Classification. In Companion Proceedings of the Web Conference 2021 (pp. 500-507) [www21 paper](https://dl.acm.org/doi/abs/10.1145/3442442.3452313#:~:text=Our%20results%20show%20that%2C%20Out,such%20as%20CNN%20and%20BiLSTM.)
+Zhao, Z., Zhang, Z., Hopfgartner, F. (2021). A Comparative Study of Using Pre-trained Language Models for Toxic Comment Classification. In Companion Proceedings of the Web Conference 2021 (pp. 500-507) [www2021 paper](https://dl.acm.org/doi/abs/10.1145/3442442.3452313#:~:text=Our%20results%20show%20that%2C%20Out,such%20as%20CNN%20and%20BiLSTM.)
 
 
-(More papers in [publications](https://casszhao.github.io/researcher/publications).)
+(More papers in [publications](https://casszhao.github.io/cass/publications).)
 
 
 <font color=White>Test</font>
