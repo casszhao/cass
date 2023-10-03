@@ -8,7 +8,7 @@ layout: default
 
 I am a Postdoc researcher in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. I work with [Prof. Nikos Aletras](https://nikosaletras.com/) on developing explainable NLP models. Before my postdoc, I worked as a research assistant within the same department, contributing to NLP projects for systematic reviews of public health research. My Ph.D. research applied transfer learning to hate speech detection tasks and investigated model bias, which was funded by the University of Sheffield.
 
-I've served on the Program Committee for AAAI, ACL, and EMNLP.
+I've served in the Program Committee for AAAI, ACL, and EMNLP.
 
 
 
