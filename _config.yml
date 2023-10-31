@@ -26,4 +26,6 @@ nav:
    link: "contact"
 
 plugins:
-  - jemoji
+ - jekyll-paginate
+ - jekyll-sitemap
+ - jemoji
