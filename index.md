@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpg">
 
-I am a Postdoc researcher in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. I work with [Prof. Nikos Aletras](https://nikosaletras.com/) on developing explainable NLP models. Before my postdoc, I worked as a research assistant within the same department, contributing to NLP projects for systematic reviews of public health research. My Ph.D. research applied transfer learning to hate speech detection tasks and investigated model bias, which was funded by the University of Sheffield.
+I am Cass (Zhixue) Zhao, a lecturer in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. Before that, I was a Postdoc researcher, supervised by [Prof. Nikos Aletras](https://nikosaletras.com/), on model interpretability, model hallucination, and model compression. Back in 2020, I worked as a research assistant within the same department, working on NIHR-funded NLP projects for systematic reviews of public health research. My Ph.D. research applied transfer learning to hate speech detection tasks and investigated model bias, which was funded by the University of Sheffield.
 
 I've served in the Program Committee for AAAI, ACL, and EMNLP.
 
-
+I am looking for highly motivated PhD students. ** A fully funded PhD studentship (3.5 years) is available. Contact me if interested.  **
 
 <font color=White>Test</font>
 <font color=White>Test</font>
@@ -28,7 +28,7 @@ Trustworthy AI, Model explanations, Generative models, Hallucination, Faithfulne
 
 Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics.
 [[ACL2023](https://aclanthology.org/2023.acl-long.261/)]
-[[Oral Presentation](https://us06web.zoom.us/rec/play/TisLvdRrfqNRYts4y0A6wJeoV2H6kL2eRywX7Jl_wGUxBVO_n_HoIfVi1lhO0OK1sUw-gDjFpHuuDz6o.-zDGXXlaq7nOwrW7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fc0BepePE3QACrdQQpFnEISDmrUSvV5T7XwJcW1TN0jkGEvVMutm55KeLx9eKWXH4.R0SYaV552qVO0sfV)] (the 1st talk was ours)
+[[Oral Presentation](https://us06web.zoom.us/rec/play/TisLvdRrfqNRYts4y0A6wJeoV2H6kL2eRywX7Jl_wGUxBVO_n_HoIfVi1lhO0OK1sUw-gDjFpHuuDz6o.-zDGXXlaq7nOwrW7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fc0BepePE3QACrdQQpFnEISDmrUSvV5T7XwJcW1TN0jkGEvVMutm55KeLx9eKWXH4.R0SYaV552qVO0sfV)] (the 1st talk was ours :partying_face:)
 
 
 Zhao, Z., G. Chrysostomou, K. Bontcheva and N. Aletras (2022). On the Impact of Temporal Concept Drift on Model Explanations. In Findings of the Association for Computational Linguistics [[EMNLP2022](https://aclanthology.org/2022.findings-emnlp.298/)]
@@ -43,82 +43,9 @@ Zhao, Z., Zhang, Z., Hopfgartner, F. (2021). A Comparative Study of Using Pre-tr
 
 <font color=White>Test</font>
 <font color=White>Test</font>
-## Research Experience
-
-
-#### Postdoc Researcher
-
-Department of Computer Science, The University of Sheffield
-
-Explainable NLP
-
-01/2022~02/2024
-
-
-
-#### Research Assistant 
-
-English and American Studies Team, The University of Manchester
-
-Nineteenth-Century Nature Writing in English and Twenty-First-Century Environmentalism
-
-07/2022~08/2022
-
-
-
-
-#### Research Assistant 
-
-Department of Computer Science, The University of Sheffield
-
-Automatically mapping and assessing inequalities in public health research
-
-07/2021~12/2021
-
-
-
-
-#### Research Assistant
-
-Department of Computer Science, The University of Sheffield
-
-Text Processing for Health Technology Assessment
-
-11/2020~03/2021
-
-
-<font color=White>Test</font>
-(Details in [resume](https://casszhao.github.io/researcher/resume.pdf)).
-
-
-
-<font color=White>Test</font>
-## Teaching Experience
-
-#### Guest lecturer
-Department of Computer Science, The University of Sheffield (Spring 2023)
-- COM4513/6513 Natural Language Processing
-
-Information School, The University of Sheffield (Fall 2022)
-- INF6028 Data Mining and Visualization
-
-#### Postgraduate dissertation supervisor, 2023
-Information School, The University of Sheffield
-
-#### Teaching Assistant 2019-2022
-Information School, The University of Sheffield
-
-- INF4002 Introduction to programming
-- INF6027 Introduction to data science
-- INF6060 Information retrieval
-- INF6028 Data mining and visualization
-- INF6032 Big data analytics
-- INF6050 Database design
-- INF6024 Researching social media
-- INF109 Digital media and society
 
 
 <font color=White>Test</font>
 ## Extra
-- Reviewing: EMNLP2022, ACL2023, EMNLP2023, AAAI24
+- Staff well-being Officer, Department of Computer Science, The University of Sheffield
 - Communications Officer of [Staff Race Equality Network](https://staff.sheffield.ac.uk/staff-race-equality-network), The University of Sheffield
