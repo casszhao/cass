@@ -32,12 +32,9 @@ Trustworthy AI, Model explanations, Generative models, Hallucination, Faithfulne
 ## Recent Publications
 
 
-:smile:
-
-
 Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics.
 [[ACL2023](https://aclanthology.org/2023.acl-long.261/)]
-[[Oral Presentation](https://us06web.zoom.us/rec/play/TisLvdRrfqNRYts4y0A6wJeoV2H6kL2eRywX7Jl_wGUxBVO_n_HoIfVi1lhO0OK1sUw-gDjFpHuuDz6o.-zDGXXlaq7nOwrW7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fc0BepePE3QACrdQQpFnEISDmrUSvV5T7XwJcW1TN0jkGEvVMutm55KeLx9eKWXH4.R0SYaV552qVO0sfV)] (the 1st talk was ours :partying_face: :smile:)
+[[Oral Presentation](https://us06web.zoom.us/rec/play/TisLvdRrfqNRYts4y0A6wJeoV2H6kL2eRywX7Jl_wGUxBVO_n_HoIfVi1lhO0OK1sUw-gDjFpHuuDz6o.-zDGXXlaq7nOwrW7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fc0BepePE3QACrdQQpFnEISDmrUSvV5T7XwJcW1TN0jkGEvVMutm55KeLx9eKWXH4.R0SYaV552qVO0sfV)] (the 1st talk was ours :partying_face: |:smile:|)
 
 
 Zhao, Z., G. Chrysostomou, K. Bontcheva and N. Aletras (2022). On the Impact of Temporal Concept Drift on Model Explanations. In Findings of the Association for Computational Linguistics [[EMNLP2022](https://aclanthology.org/2022.findings-emnlp.298/)]
