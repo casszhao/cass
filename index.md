@@ -31,12 +31,9 @@ Trustworthy AI, Model explanations, Generative models, Hallucination, Faithfulne
 
 ## Recent Publications
 
-:bowtie:
+
 :smile:
-:laughing:
-:blush:
-:smiley:
-:relaxed:
+
 
 Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics.
 [[ACL2023](https://aclanthology.org/2023.acl-long.261/)]
