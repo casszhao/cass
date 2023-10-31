@@ -11,6 +11,7 @@ I am Cass (Zhixue) Zhao, a lecturer in [Natural Language Processing](https://www
 I've served in the Program Committee for AAAI, ACL, and EMNLP.
 
 I am looking for highly motivated PhD students. 
+
 **A fully funded PhD studentship (3.5 years) is available. Contact me if interested.**
 
 <font color=White>Test</font>
