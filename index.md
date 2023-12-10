@@ -8,7 +8,7 @@ layout: default
 
 I am Cass (Zhixue) Zhao, a lecturer in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. Before that, I was a Postdoc researcher, supervised by [Prof. Nikos Aletras](https://nikosaletras.com/), on model interpretability, model hallucination, and model compression. Back in 2020, I worked as a research assistant within the same department, working on NIHR-funded NLP projects for systematic reviews of public health research. My Ph.D. research applied transfer learning to hate speech detection tasks and investigated model bias, which was funded by the University of Sheffield.
 
-I've served in the Program Committee for AAAI, ACL, and EMNLP.
+I've served in the Program Committee for AAAI, ACL, and EMNLP. I also serve as a reviewer for ACL ARR.
 
 <font color=White>Test</font>
 <font color=White>Test</font>
