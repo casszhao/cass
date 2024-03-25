@@ -7,7 +7,7 @@ is_contact: true
 
 ## Publications
 
-Zhao, Z., N. Aletras (2024). Incorporating Attribution Importance for Improving Faithfulness Metrics. 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics. NAACL2024, [paper](https://arxiv.org/pdf/2403.12809.pdf/)
+Zhao, Z., N. Aletras (2024). Incorporating Attribution Importance for Improving Faithfulness Metrics. 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics. NAACL2024, [paper](https://arxiv.org/pdf/2403.12809.pdf)
 
 
 Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics. ACL2023, [paper](https://aclanthology.org/2023.acl-long.261/)
