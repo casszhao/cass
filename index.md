@@ -32,7 +32,7 @@ Trustworthy AI, Model explanations, Generative models, Hallucination, Faithfulne
 ## Recent Publications
 
 Zhao, Z., N. Aletras (2024). Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models. 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
-[[NAACL 2024 Main](https://github.com/casszhao/multilingual-faith)]
+[[NAACL 2024 Main](https://arxiv.org/pdf/2403.12809.pdf)]
 
 
 Zhao, Z., N. Aletras (2023). Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics.
