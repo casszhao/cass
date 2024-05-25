@@ -34,5 +34,3 @@ Mark Clowes., Stansfield Claire, Thomas James, Shemilt Ian, Paisley, S., Mark St
 
 **<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, and Frank Hopfgartner. 2019. Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. In Proceedings of 20th International Conference on Computational Linguistics and Intelligent Text Processing, La Rochelle, France [CICLing 2019](https://easychair.org/publications/preprint/XGmR)
 
-Zhao, Z., Zhang, Z., Hopfgartner, F. (2019). Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. In Proceedings of 20th International Conference on Computational Linguistics and Intelligent Text Processing, La Rochelle, France [paper](https://easychair.org/publications/preprint/XGmR)
-
