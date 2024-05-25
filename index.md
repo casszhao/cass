@@ -16,7 +16,7 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 
 I am looking for highly motivated PhD students. 
 
-**A fully funded PhD studentship (3.5 years) is available. Contact me if interested.**
+**A fully [[funded PhD](https://www.findaphd.com/phds/project/towards-responsible-and-accessible-large-language-models/?p169516)] studentship (3.5 years) is available. Contact me if interested.** 
 
 <font color=White>Test</font>
 <font color=White>Test</font>
