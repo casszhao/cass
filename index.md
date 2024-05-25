@@ -32,7 +32,7 @@ Trustworthy AI, Model explanations, Generative models, Hallucination, Faithfulne
 
 ## Recent Publications
 
-George Chrysostomou, Zhixue Zhao, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
+George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
 Computational Linguistics. [[TACL 2024](https://arxiv.org/pdf/2311.09335)] (accepted)
 
 Zhixue Zhao and Nikolaos Aletras. 2024. Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models. 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics. [[NAACL 2024 Main](https://arxiv.org/pdf/2403.12809)] (oral presentation)
