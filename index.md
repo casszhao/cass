@@ -59,5 +59,5 @@ Computational Linguistics. [[TACL 2024](https://arxiv.org/pdf/2311.09335)] (acce
 
 <font color=White>Test</font>
 ## Extra
-- Staff well-being Officer, Department of Computer Science, The University of Sheffield
+- Well-being & Neurodiversity Rep, Department of Computer Science, The University of Sheffield
 - Communications Officer of [Staff Race Equality Network](https://staff.sheffield.ac.uk/staff-race-equality-network), The University of Sheffield
