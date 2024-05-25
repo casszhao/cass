@@ -32,6 +32,7 @@ Computational Linguistics. [[TACL 2024](https://arxiv.org/pdf/2311.09335)] (acce
 
 Mark Clowes., Stansfield Claire, Thomas James, Shemilt Ian, Paisley, S., Mark Stevenson, **<span style="color:grey">Zhixue Zhao</span>**, Marshall Iain, Gregory Kell, June 2022. All is FAIR in health inequalities research: using machine learning to build a new database of health equity studies. European Association for Health Information and Libraries 2022. [project](https://eppi.ioe.ac.uk/eppi-vis/Fair)
 
+**<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, and Frank Hopfgartner. 2019. Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. In Proceedings of 20th International Conference on Computational Linguistics and Intelligent Text Processing, La Rochelle, France [CICLing 2019](https://easychair.org/publications/preprint/XGmR)
 
 Zhao, Z., Zhang, Z., Hopfgartner, F. (2019). Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. In Proceedings of 20th International Conference on Computational Linguistics and Intelligent Text Processing, La Rochelle, France [paper](https://easychair.org/publications/preprint/XGmR)
 
