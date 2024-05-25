@@ -32,17 +32,11 @@ Trustworthy AI, Model explanations, Generative models, Hallucination, Faithfulne
 
 ## Recent Publications
 
-George Chrysostomou, Zhixue Zhao, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations
-in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
-Computational Linguistics. TACL 2024 (accepted)
+George Chrysostomou, Zhixue Zhao, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
+Computational Linguistics. [[TACL 2024](https://arxiv.org/pdf/2311.09335)] (accepted)
 
 
-Zhixue Zhao and Nikolaos Aletras. 2024.  Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. Transactions of the Association for Computational
-Linguistics.
-[[TACL 2024](https://arxiv.org/pdf/2311.09335)]
-
-
-Zhixue Zhao and Nikolaos Aletras. 2023. Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics.
+Zhixue Zhao and Nikolaos Aletras. 2024. Incorporating Attribution Importance for Improving Faithfulness Metrics. The 61st Annual Meeting of the Association for Computational Linguistics.
 [[ACL 2023 Main](https://aclanthology.org/2023.acl-long.261/)]
 [[Oral Presentation](https://us06web.zoom.us/rec/play/TisLvdRrfqNRYts4y0A6wJeoV2H6kL2eRywX7Jl_wGUxBVO_n_HoIfVi1lhO0OK1sUw-gDjFpHuuDz6o.-zDGXXlaq7nOwrW7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fc0BepePE3QACrdQQpFnEISDmrUSvV5T7XwJcW1TN0jkGEvVMutm55KeLx9eKWXH4.R0SYaV552qVO0sfV)] (the 1st talk was ours)
 
