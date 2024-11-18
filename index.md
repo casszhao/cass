@@ -56,6 +56,5 @@ Computational Linguistics. [[TACL Vol. 12 (2024)](https://transacl.org/index.php
 
 
 <font color=White>Test</font>
-## Extra
-- Well-being & Neurodiversity Rep, Department of Computer Science, The University of Sheffield
-- Communications Officer of [Staff Race Equality Network](https://staff.sheffield.ac.uk/staff-race-equality-network), The University of Sheffield
+## Project
+- Co-PI of [ExU](https://exuproject.sites.sheffield.ac.uk/)
