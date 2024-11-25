@@ -14,7 +14,7 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-I am looking for highly motivated PhD students. <font color=blue>Two funded PhD positions</font> for 3.5 years are available, one on UKRI rate and one on UKRI for both the UK and overseas. Contact me if interested. Self-funding with your own topic is welcome too.
+I am looking for highly motivated PhD students. <font color=blue>Two funded PhD positions</font> for 3.5 years are available, one on UKRI rate and one on UKRI for both the UK and overseas. Welcome to [apply](https://www.findaphd.com/phds/project/finding-the-needle-in-the-ocean-multimodal-retrieval-systems-for-unstructured-data-s3-5-com-zhao/?p178069) directly or contact me first. Self-funding with your own topic is welcome too.
 
 <font color=White>Test</font>
 <font color=White>Test</font>
