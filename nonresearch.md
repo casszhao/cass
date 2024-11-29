@@ -4,11 +4,11 @@ Life in academia can sometimes be tough, particularly for juniors. One thing tha
 
 
 
-### Food
-![](./images/food.pdf)
+### No Category
+![](./images/nocategory.pdf)
 
 
-### Lovely creatures
+### DOGS & CATS
 ![](./images/pets.pdf)
 
 
