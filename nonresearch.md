@@ -5,11 +5,15 @@ Life in academia can sometimes be tough, particularly for juniors. One thing tha
 
 
 ### No Category
-![](./images/feelit.jpg)
+![](./images/feelit.JPEG)
+I feel him/her
 
-## DOGS & CATS 
-![](./images/pet1.jpg)
-![](./images/pet2.jpg)
+### DOGS & CATS 
+![](./images/pet1.JPEG)
+she is the cutest
+
+![](./images/pet2.JPEG)
+"huh?"
 
 ---
 © 2024 Cass. Photos by Cass.
