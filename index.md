@@ -14,23 +14,14 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-I am looking for highly motivated PhD students. <font color=blue>Two funded PhD positions</font> for 3.5 years are available, one on UKRI rate and one on UKRI for both the UK and overseas. Welcome to [apply](https://www.findaphd.com/phds/project/finding-the-needle-in-the-ocean-multimodal-retrieval-systems-for-unstructured-data-s3-5-com-zhao/?p178069) directly or contact me first. Self-funding with your own topic is welcome too.
-
-<font color=White>Test</font>
-<font color=White>Test</font>
-
-## Research Interest
-
-Trustworthy AI, Model explanations, Generative models, Hallucination, Faithfulness, Text generation
-
-
+I am looking for highly motivated PhD students. <font color=blue>Two funded PhD positions</font> for 3.5 years are available, one on UKRI rate and one on UKRI for both the UK and overseas. Welcome to [apply](https://www.findaphd.com/phds/project/finding-the-needle-in-the-ocean-multimodal-retrieval-systems-for-unstructured-data-s3-5-com-zhao/?p178069) directly or contact me first. CSC or Self-funding with your own topic is welcome too.
 
 <font color=White>Test</font>
 <font color=White>Test</font>
 
 ## Recent Publications
 
-George Chrysostomou, ***<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
+George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
 Computational Linguistics. [[TACL Vol. 12 (2024)](https://transacl.org/index.php/tacl/article/view/6271)]
 
 **<span style="color:grey">Zhixue Zhao</span>** and Nikolaos Aletras. 2024. Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models. 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics. [[NAACL 2024 Main](https://arxiv.org/pdf/2403.12809)] (oral presentation)
