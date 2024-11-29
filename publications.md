@@ -7,7 +7,7 @@ is_contact: true
 
 ## Publications
 
-**<span style="color:grey">Zhixue Zhao</span>**, George Chrysostomou, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
+George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
 Computational Linguistics. [[TACL Vol. 12 (2024)](https://transacl.org/index.php/tacl/article/view/6271)]
 
 
