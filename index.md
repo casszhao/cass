@@ -21,6 +21,13 @@ I am looking for highly motivated PhD students. <font color=blue>Two funded PhD 
 
 ## Selected Publications
 
+
+Leixin Zhang, Yinjie Cheng, WEIHE ZHAI, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. ScImage: How good are multimodal large language models at scientific text-to-image generation? The Thirteenth International Conference on Learning Representations. ICLR2025
+
+Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 2025. Can We Reverse In-Context Knowledge Edits? The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL. NAACL2025
+
+Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 2025. Has this Fact been Edited? Detecting Knowledge Edits in Language Models? The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL. NAACL2025
+
 George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
 Computational Linguistics. [TACL Vol. 12 (2024)](https://transacl.org/index.php/tacl/article/view/6271)
 
