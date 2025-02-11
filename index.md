@@ -14,7 +14,7 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-I am looking for highly motivated PhD students. <font color=blue>Two funded PhD positions</font> for 3.5 years are available, one on UKRI rate and one on UKRI for both the UK and overseas. Welcome to [apply](https://www.findaphd.com/phds/project/finding-the-needle-in-the-ocean-multimodal-retrieval-systems-for-unstructured-data-s3-5-com-zhao/?p178069) directly or contact me first. CSC or Self-funding with your own topic is welcome too.
+I am looking for highly motivated PhD students. <font color=blue>One funded PhD positions</font> for 3.5 years are available, UKRI rate. Welcome to contact me with your CV ready. CSC or Self-funding with your own topic is welcome too.
 
 <font color=White>Test</font>
 <font color=White>Test</font>
@@ -22,11 +22,11 @@ I am looking for highly motivated PhD students. <font color=blue>Two funded PhD 
 ## Selected Publications
 
 
-Leixin Zhang, Yinjie Cheng, WEIHE ZHAI, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. ScImage: How good are multimodal large language models at scientific text-to-image generation? The Thirteenth International Conference on Learning Representations. ICLR2025
+Leixin Zhang, Yinjie Cheng, WEIHE ZHAI, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. ScImage: How good are multimodal large language models at scientific text-to-image generation? The Thirteenth International Conference on Learning Representations. [ICLR2025](https://arxiv.org/pdf/2412.02368)
 
-Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 2025. Can We Reverse In-Context Knowledge Edits? The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL. NAACL2025
+Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 2025. Can We Reverse In-Context Knowledge Edits? The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL. [NAACL2025](https://arxiv.org/pdf/2410.12586)
 
-Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 2025. Has this Fact been Edited? Detecting Knowledge Edits in Language Models? The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL. NAACL2025
+Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 2025. Has this Fact been Edited? Detecting Knowledge Edits in Language Models? The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL. [NAACL2025](https://arxiv.org/pdf/2405.02765)
 
 George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 2024. Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization. 2024 Transactions of the Association for
 Computational Linguistics. [TACL Vol. 12 (2024)](https://transacl.org/index.php/tacl/article/view/6271)
