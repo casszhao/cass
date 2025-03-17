@@ -22,7 +22,7 @@ I am looking for highly motivated PhD students. <font color=blue>One funded PhD 
 ## Selected Publications
 
 
-Leixin Zhang, Yinjie Cheng, WEIHE ZHAI, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. ScImage: How good are multimodal large language models at scientific text-to-image generation? The Thirteenth International Conference on Learning Representations. [ICLR2025](https://arxiv.org/pdf/2412.02368)
+Leixin Zhang, Yinjie Cheng, WEIHE ZHAI, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. ScImage: How good are multimodal large language models at scientific text-to-image generation? The Thirteenth International Conference on Learning Representations. [ICLR2025](https://iclr.cc/virtual/2025/poster/27964)
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 2025. Can We Reverse In-Context Knowledge Edits? The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL. [NAACL2025](https://arxiv.org/pdf/2410.12586)
 
