@@ -21,6 +21,11 @@ I am looking for highly motivated PhD students. <font color=blue>One funded PhD 
 
 ## Selected Publications
 
+Jason Chan, Robert Gaizauskas, **<span style="color:grey">Zhixue Zhao</span>**
+Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic. [ICML2025](https://arxiv.org/pdf/2410.16502)
+
+Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jörg Schlötterer, Christin Seifert
+Position: Editing Large Language Models Poses Serious Safety Risks. [ICML2025](https://arxiv.org/pdf/2502.02958)
 
 Leixin Zhang, Yinjie Cheng, WEIHE ZHAI, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. ScImage: How good are multimodal large language models at scientific text-to-image generation? The Thirteenth International Conference on Learning Representations. [ICLR2025](https://iclr.cc/virtual/2025/poster/27964)
 
