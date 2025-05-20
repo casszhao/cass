@@ -56,7 +56,7 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlöttere
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 
 
 
-[TACL Vol. 12 (2024)](https://transacl.org/index.php/tacl/article/view/6271) Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization.  
+[TACL2024 Vol. 12](https://transacl.org/index.php/tacl/article/view/6271) Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization.  
 
 George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 
 
