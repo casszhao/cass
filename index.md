@@ -36,12 +36,12 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jö
 Leixin Zhang, Yinjie Cheng, WEIHE ZHAI, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. 
 
 
-ACL2025 Main Preprint coming soon. Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models
+[ACL2025 Main](https://2025.aclweb.org/) Preprint coming soon. Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models
 
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Xupeng Zha, Yang Liu, Zhihua Jiang
 
 
-ACL2025 Findings Preprint coming soon. Explainable Hallucination through Natural Language Inference Mapping
+[ACL2025 Findings](https://2025.aclweb.org/) Preprint coming soon. Explainable Hallucination through Natural Language Inference Mapping
 
 Wei-Fan Chen, **<span style="color:grey">Zhixue Zhao</span>**, Akbar Karimi, Lucie Flek
 
@@ -51,7 +51,7 @@ Wei-Fan Chen, **<span style="color:grey">Zhixue Zhao</span>**, Akbar Karimi, Luc
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 
 
 
-[NAACL2025 Main](https://arxiv.org/pdf/2405.02765) Has this Fact been Edited? Detecting Knowledge Edits in Language Models?
+[NAACL2025 Main Oral](https://arxiv.org/pdf/2405.02765) Has this Fact been Edited? Detecting Knowledge Edits in Language Models?
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 
 
