@@ -24,6 +24,8 @@ nav:
    link: "contact"
  - name: "Beyond Research"
    link: "nonresearch"
+ - name: "Dissertation Topics"
+   link: "topics"
 
 plugins:
  - jekyll-paginate
