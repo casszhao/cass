@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
 
 ## Specific and Interesting Research Directions in LLM Red Teaming
 
@@ -71,7 +71,7 @@
 
 These research directions collectively address the evolving landscape of LLM vulnerabilities, emphasizing both technical sophistication and the importance of human creativity and diversity in red teaming efforts[^1][^2][^6][^7][^8].
 
-<div style="text-align: center">⁂</div>
+<div style="text-align: center"> </div>
 
 [^1]: https://www.confident-ai.com/blog/red-teaming-llms-a-step-by-step-guide
 
