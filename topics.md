@@ -1,6 +1,8 @@
 
 
-## Specific and Interesting Research Directions in LLM Red Teaming
+## 2025/2026 Potential Research Directions in LLM Red Teaming
+
+If you are interested in any of the following direction for your dissertation, feel free to drop me an email or find more at the dissertation portal on blackboard. I supervise both UG and PG.
 
 **1. Automated Red Teaming and Adversarial Prompt Generation**
 
