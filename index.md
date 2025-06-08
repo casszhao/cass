@@ -21,7 +21,7 @@ I am looking for highly motivated PhD students. <font color=blue>One funded PhD 
 
 ## Selected Publications
 
-[ICML2025](https://arxiv.org/pdf/2410.16502) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
+[ICML2025](https://icml.cc/virtual/2025/poster/40144) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
 
 Jason Chan, Robert Gaizauskas, **<span style="color:grey">Zhixue Zhao</span>**
 
@@ -33,7 +33,7 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jö
 
 [ICLR2025](https://iclr.cc/virtual/2025/poster/27964) ScImage: How good are multimodal large language models at scientific text-to-image generation? 
 
-Leixin Zhang, Yinjie Cheng, WEIHE ZHAI, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. 
+Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. 
 
 
 [ACL2025 Main](https://2025.aclweb.org/) Preprint coming soon. Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models
