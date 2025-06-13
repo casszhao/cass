@@ -46,12 +46,12 @@ Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Xupeng 
 Wei-Fan Chen, **<span style="color:grey">Zhixue Zhao</span>**, Akbar Karimi, Lucie Flek
 
 
-[NAACL2025 Main](https://arxiv.org/pdf/2410.12586) Can We Reverse In-Context Knowledge Edits?
+[NAACL2025 Main](https://aclanthology.org/2025.naacl-long.630/) How to Make LLMs Forget: On Reversing In-Context Knowledge Edits
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 
 
 
-[NAACL2025 Main Oral](https://arxiv.org/pdf/2405.02765) Has this Fact been Edited? Detecting Knowledge Edits in Language Models?
+[NAACL2025 Main Oral](https://aclanthology.org/2025.naacl-long.492/) Has this Fact been Edited? Detecting Knowledge Edits in Language Models?
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 
 
