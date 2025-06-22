@@ -8,10 +8,16 @@ is_contact: true
 ## Publications
 
 [TACL2025 under review](https://arxiv.org/pdf/2408.14398) Investigating Language-Specific Calibration for Pruning Multilingual Large Language Models
+
 Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
+
+[Preprint](https://arxiv.org/pdf/2505.20819?) Tracing and Reversing Rank-One Model Edits
+
+Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Christin Seifert, Jörg Schlötterer
 
 [Preprint](https://arxiv.org/pdf/2412.03400) Implicit Priors Editing in Stable Diffusion via Targeted Token
 Adjustment 
+
 Feng He, Chao Zhang, **<span style="color:grey">Zhixue Zhao</span>**
 
 [ICML2025](https://icml.cc/virtual/2025/poster/40144) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
