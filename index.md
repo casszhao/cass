@@ -14,7 +14,7 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-I am looking for highly motivated PhD students. <font color=blue>One funded PhD positions</font> for 3.5 years are available, UKRI rate. Welcome to contact me with your CV ready. CSC or Self-funding with your own topic is welcome too.
+I am looking for highly motivated PhD students. <font color=blue>One funded PhD positions</font> for 3.5 years will be available in late 2026, UKRI rate. Welcome to contact me with your CV ready. CSC or Self-funding with your own topic is welcome too.
 
 <font color=White>Test</font>
 <font color=White>Test</font>
