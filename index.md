@@ -36,12 +36,12 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jö
 Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. 
 
 
-[ACL2025 Main](https://2025.aclweb.org/) Preprint coming soon. Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models
+[ACL2025 Main](https://aclanthology.org/2025.acl-long.1063/). Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models
 
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Xupeng Zha, Yang Liu, Zhihua Jiang
 
 
-[ACL2025 Findings](https://2025.aclweb.org/) Preprint coming soon. Explainable Hallucination through Natural Language Inference Mapping
+[ACL2025 Findings](https://aclanthology.org/2025.findings-acl.96/) Preprint coming soon. Explainable Hallucination through Natural Language Inference Mapping
 
 Wei-Fan Chen, **<span style="color:grey">Zhixue Zhao</span>**, Akbar Karimi, Lucie Flek
 
