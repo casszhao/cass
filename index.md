@@ -41,7 +41,7 @@ Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Mo
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Xupeng Zha, Yang Liu, Zhihua Jiang
 
 
-[ACL2025 Findings](https://aclanthology.org/2025.findings-acl.96/) Preprint coming soon. Explainable Hallucination through Natural Language Inference Mapping
+[ACL2025 Findings](https://aclanthology.org/2025.findings-acl.96/) Explainable Hallucination through Natural Language Inference Mapping
 
 Wei-Fan Chen, **<span style="color:grey">Zhixue Zhao</span>**, Akbar Karimi, Lucie Flek
 
