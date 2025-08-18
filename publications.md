@@ -11,6 +11,10 @@ is_contact: true
 
 Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
 
+[Preprint](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
+
+Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, André Freitas
+
 [Preprint](https://arxiv.org/pdf/2505.20819?) Tracing and Reversing Rank-One Model Edits
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Christin Seifert, Jörg Schlötterer
