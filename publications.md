@@ -19,10 +19,29 @@ Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Z
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Christin Seifert, Jörg Schlötterer
 
-[Preprint](https://arxiv.org/pdf/2412.03400) Implicit Priors Editing in Stable Diffusion via Targeted Token
-Adjustment 
+[EMNLP2025 Main](https://arxiv.org/pdf/2412.03400?) Minimal, Local, and Robust: Embedding-Only Edits for Implicit Bias in T2I Models
 
 Feng He, Chao Zhang, **<span style="color:grey">Zhixue Zhao</span>**
+
+
+[EMNLP2025 Main](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bwiMxxsAAAAJ&sortby=pubdate&citation_for_view=bwiMxxsAAAAJ:hqOjcs7Dif8C) Label Set Optimization via Activation Distribution Kurtosis for Zero-Shot Classification with Generative Models
+
+Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
+
+
+[EMNLP2025 Main] It's All About In-Context Learning! Teaching Extremely Low-Resource Languages to LLMs
+
+Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
+
+	
+[EMNLP2025 Findings] Revisiting Pruning vs Quantization for Small Language Models
+
+Zihan Zhou, Simon Kurz, **<span style="color:grey">Zhixue Zhao</span>**
+
+
+[EMNLP2025 Main] Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?
+
+Samuel Lewis-Lim, Xingwei Tan, **<span style="color:grey">Zhixue Zhao</span>**, Nikolaos Aletras
 
 [ICML2025](https://icml.cc/virtual/2025/poster/40144) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
 
