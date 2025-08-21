@@ -1,6 +1,6 @@
 title: Cass Zhao
-url: "https://casszhao.github.io/cass/"
-baseurl: ""
+url: "casszhao.github.io/cass/"
+baseurl: "/cass"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
