@@ -46,7 +46,7 @@ Feng He, Chao Zhang, **<span style="color:grey">Zhixue Zhao</span>**
 Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
 
 
-[EMNLP2025 Main] It's All About In-Context Learning! Teaching Extremely Low-Resource Languages to LLMs
+[EMNLP2025 Main](https://arxiv.org/pdf/2508.19089) It's All About In-Context Learning! Teaching Extremely Low-Resource Languages to LLMs
 
 Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
 
@@ -56,7 +56,7 @@ Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
 Zihan Zhou, Simon Kurz, **<span style="color:grey">Zhixue Zhao</span>**
 
 
-[EMNLP2025 Main] Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?
+[EMNLP2025 Main](https://arxiv.org/abs/2508.19827) Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?
 
 Samuel Lewis-Lim, Xingwei Tan, **<span style="color:grey">Zhixue Zhao</span>**, Nikolaos Aletras
 
