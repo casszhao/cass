@@ -41,7 +41,7 @@ Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Mo
 Feng He, Chao Zhang, **<span style="color:grey">Zhixue Zhao</span>**
 
 
-[EMNLP2025 Main](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bwiMxxsAAAAJ&sortby=pubdate&citation_for_view=bwiMxxsAAAAJ:hqOjcs7Dif8C) Label Set Optimization via Activation Distribution Kurtosis for Zero-Shot Classification with Generative Models
+[EMNLP2025 Main Oral Top15%](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bwiMxxsAAAAJ&sortby=pubdate&citation_for_view=bwiMxxsAAAAJ:hqOjcs7Dif8C) Label Set Optimization via Activation Distribution Kurtosis for Zero-Shot Classification with Generative Models
 
 Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
 
@@ -86,7 +86,7 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlöttere
 George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 
 
 
-[NAACL 2024 Main](https://arxiv.org/pdf/2403.12809) (oral presentation) Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models. 
+[NAACL 2024 Main oral](https://arxiv.org/pdf/2403.12809) Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models. 
 
 **<span style="color:grey">Zhixue Zhao</span>** and Nikolaos Aletras.
 
