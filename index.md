@@ -70,6 +70,9 @@ Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Xupeng 
 
 Wei-Fan Chen, **<span style="color:grey">Zhixue Zhao</span>**, Akbar Karimi, Lucie Flek
 
+[IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/document/11080351) CCDE: A Compact and Competitive Dialogue Evaluation Framework via Knowledge Distillation of Large Language Models
+
+Guanghui Ye; Huan Zhao; Bo Li; Haijiao Chen; **<span style="color:grey">Zhixue Zhao</span>**; Zhihua Jiang
 
 [NAACL2025 Main](https://aclanthology.org/2025.naacl-long.630/) How to Make LLMs Forget: On Reversing In-Context Knowledge Edits
 
