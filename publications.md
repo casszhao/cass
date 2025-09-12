@@ -19,6 +19,10 @@ Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Z
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Christin Seifert, Jörg Schlötterer
 
+[IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/document/11080351) CCDE: A Compact and Competitive Dialogue Evaluation Framework via Knowledge Distillation of Large Language Models
+
+Guanghui Ye; Huan Zhao; Bo Li; Haijiao Chen; **<span style="color:grey">Zhixue Zhao</span>**; Zhihua Jiang
+
 [EMNLP2025 Main](https://arxiv.org/pdf/2412.03400?) Minimal, Local, and Robust: Embedding-Only Edits for Implicit Bias in T2I Models
 
 Feng He, Chao Zhang, **<span style="color:grey">Zhixue Zhao</span>**
