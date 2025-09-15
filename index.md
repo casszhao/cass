@@ -51,7 +51,7 @@ Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
 Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
 
 	
-[EMNLP2025 Findings](https://2025.emnlp.org/) Revisiting Pruning vs Quantization for Small Language Models
+[EMNLP2025 Findings](QP.pdf) Revisiting Pruning vs Quantization for Small Language Models
 
 Zihan Zhou, Simon Kurz, **<span style="color:grey">Zhixue Zhao</span>**
 
