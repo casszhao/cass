@@ -14,12 +14,9 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-🚀 A fully funded PhD studentship @SheffieldNLP. Join us to explore cutting-edge topics in AI safety and Generative AI integrity 🧠✨
+🚀 [A fully funded PhD studentship](https://shorturl.at/WBJWL) @SheffieldNLP. Join us to explore cutting-edge topics in AI safety and Generative AI integrity 🧠✨ Get in touch if you’d like to chat about the PhD, our research, or life in Sheffield!
 
-📩 Get in touch if you’d like to chat about the PhD, our research, or life in Sheffield!
-👉 Apply here: https://shorturl.at/WBJWL
-
-If you’re considering self-funding or already have external funding, please feel free to contact me with your CV. Visiting students are also very welcome!
+📩 If you’re considering self-funding or already have external funding, please feel free to contact me with your CV. Visiting students are also very welcome!
 
 
 
