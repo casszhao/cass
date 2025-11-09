@@ -26,6 +26,16 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 
 ## Selected Publications
 
+[AAAI26 Oral](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
+
+Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, Andre Freitas
+
+
+[AAAI2026 Poster](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) Making Visual Dialogue More Engaging: A New Task, Method, and Metric
+
+Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</span>**, Kehan Wang, Xupeng Zha, Zhihua Jiang
+
+
 [ICML2025](https://openreview.net/pdf?id=uqpML2nbIz) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
 
 Jason Chan, Robert Gaizauskas, **<span style="color:grey">Zhixue Zhao</span>**
