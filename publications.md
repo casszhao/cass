@@ -125,19 +125,19 @@ George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Will
 
 [EMNLP 2022 Findings](https://aclanthology.org/2022.findings-emnlp.298/) On the Impact of Temporal Concept Drift on Model Explanations. 
 
-**<span style="color:grey">Zhixue Zhao</span>**, George Chrysostomou, Kalina Bontcheva, Nikolaos Aletras.
+**<span style="color:grey">Zhixue Zhao</span>**, George Chrysostomou, Kalina Bontcheva, Nikolaos Aletras
 
 
 [Online Social Networks and Media 2022](https://www.sciencedirect.com/science/article/abs/pii/S246869642200009X) Utilizing Subjectivity Level to Mitigate Identity Term Bias in Toxic Comments Classification. 
 
-**<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner.  
+**<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner
 
 
-[WWW 2021 Companion](https://dl.acm.org/doi/abs/10.1145/3442442.3452313#:~:text=Our%20results%20show%20that%2C%20Out,such%20as%20CNN%20and%20BiLSTM.) A Comparative Study of Using Pre-trained Language Models for Toxic Comment Classification.
+[WWW2021 Companion](https://dl.acm.org/doi/abs/10.1145/3442442.3452313#:~:text=Our%20results%20show%20that%2C%20Out,such%20as%20CNN%20and%20BiLSTM.) A Comparative Study of Using Pre-trained Language Models for Toxic Comment Classification.
 
-**<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner. 2021. 
+**<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner
 
 
 [CICLing 2019](https://easychair.org/publications/preprint/XGmR) Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. 
 
-**<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner. 2019. 
+**<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner
