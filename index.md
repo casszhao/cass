@@ -14,7 +14,7 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-🚀 [A fully funded PhD studentship](https://shorturl.at/WBJWL) @SheffieldNLP. Join us to explore cutting-edge topics in AI safety and Generative AI integrity 🧠✨ Get in touch if you’d like to chat about the PhD, our research, or life in Sheffield!
+🚀 [A fully funded PhD studentship](https://shorturl.at/WBJWL) @SheffieldNLP. Join us to explore cutting-edge topics in AI safety and Generative AI integrity 🧠✨ Get in touch if you’d like to chat about the PhD, our research, or life in Sheffield! Also, one UK home standard studentship is available in 2027.
 
 📩 If you’re considering self-funding or already have external funding, please feel free to contact me with your CV. Visiting students are also very welcome!
 
@@ -24,16 +24,7 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-## Selected Publications
-
-[AAAI26 Oral](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
-
-Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, Andre Freitas
-
-
-[AAAI2026 Poster](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) Making Visual Dialogue More Engaging: A New Task, Method, and Metric
-
-Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</span>**, Kehan Wang, Xupeng Zha, Zhihua Jiang
+## Selected Publications in 2025
 
 
 [ICML2025](https://openreview.net/pdf?id=uqpML2nbIz) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
@@ -49,6 +40,24 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jö
 [ICLR2025](https://openreview.net/pdf?id=ugyqNEOjoU) ScImage: How good are multimodal large language models at scientific text-to-image generation? 
 
 Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. 
+
+[TACL2025](https://arxiv.org/pdf/2408.14398) Investigating Language-Specific Calibration for Pruning Multilingual Large Language Models
+
+Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
+
+[ICWSM26](https://arxiv.org/abs/2505.18916) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
+
+Yue Li, Jake Vasilakes, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
+
+
+[AAAI26 Oral](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
+
+Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, Andre Freitas
+
+
+[AAAI2026 Poster](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) Making Visual Dialogue More Engaging: A New Task, Method, and Metric
+
+Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</span>**, Kehan Wang, Xupeng Zha, Zhihua Jiang
 
 
 [EMNLP2025 Main](https://arxiv.org/pdf/2412.03400?) Minimal, Local, and Robust: Embedding-Only Edits for Implicit Bias in T2I Models
@@ -85,6 +94,12 @@ Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Xupeng 
 
 Wei-Fan Chen, **<span style="color:grey">Zhixue Zhao</span>**, Akbar Karimi, Lucie Flek
 
+
+[Knowledge-Based Systems 2025](https://www.sciencedirect.com/science/article/pii/S0950705125016739) AI-generated content in cross-domain applications: Research trends, challenges and propositions
+
+Jianxin Li, Liang Qu, Taotao Cai, **<span style="color:grey">Zhixue Zhao</span>**, Nur Al Hasan Haldar, Aneesh Krishna, Xiangjie Kong, Flavio Romero Macau, Tanmoy Chakraborty, Aniket Deroy, Binshan Lin, Karen Blackmore, Nasimul Noman, Jingxian Cheng, Ningning Cui, Jianliang Xu
+
+
 [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/document/11080351) CCDE: A Compact and Competitive Dialogue Evaluation Framework via Knowledge Distillation of Large Language Models
 
 Guanghui Ye; Huan Zhao; Bo Li; Haijiao Chen; **<span style="color:grey">Zhixue Zhao</span>**; Zhihua Jiang
@@ -99,34 +114,15 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlöttere
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 
 
 
-[TACL2024 Vol. 12](https://transacl.org/index.php/tacl/article/view/6271) Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization.  
-
-George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, and Nikolaos Aletras. 
-
-
-[NAACL 2024 Main oral](https://arxiv.org/pdf/2403.12809) Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models. 
-
-**<span style="color:grey">Zhixue Zhao</span>** and Nikolaos Aletras.
-
-[ACL 2023 Main](https://aclanthology.org/2023.acl-long.261/)
-[[Oral Presentation](https://us06web.zoom.us/rec/play/TisLvdRrfqNRYts4y0A6wJeoV2H6kL2eRywX7Jl_wGUxBVO_n_HoIfVi1lhO0OK1sUw-gDjFpHuuDz6o.-zDGXXlaq7nOwrW7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus06web.zoom.us%2Frec%2Fshare%2Fc0BepePE3QACrdQQpFnEISDmrUSvV5T7XwJcW1TN0jkGEvVMutm55KeLx9eKWXH4.R0SYaV552qVO0sfV) (the 1st talk was ours)] Incorporating Attribution Importance for Improving Faithfulness Metrics.
-
-**<span style="color:grey">Zhixue Zhao</span>** and Nikolaos Aletras.
-
-
-[EMNLP 2022 Findings](https://aclanthology.org/2022.findings-emnlp.298/) On the Impact of Temporal Concept Drift on Model Explanations. 
-
-**<span style="color:grey">Zhixue Zhao</span>**, George Chrysostomou, Kalina Bontcheva, and Nikolaos Aletras.
-
 
 
 (More papers in [publications](https://casszhao.github.io/cass/publications).)
 
 
 <font color=White>Test</font>
-<font color=White>Test</font>
 
 
-<font color=White>Test</font>
+
+
 ## Project
 - Co-PI of [ExU](https://exuproject.sites.sheffield.ac.uk/)
