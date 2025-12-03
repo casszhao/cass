@@ -27,6 +27,22 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 ## Selected Publications in 2025
 
 
+
+[AAAI26 Oral](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
+
+Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, Andre Freitas
+
+
+[AAAI2026 Poster](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) Making Visual Dialogue More Engaging: A New Task, Method, and Metric
+
+Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</span>**, Kehan Wang, Xupeng Zha, Zhihua Jiang
+
+
+[ICWSM26](https://arxiv.org/abs/2505.18916) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
+
+Yue Li, Jake Vasilakes, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
+
+
 [ICML2025](https://openreview.net/pdf?id=uqpML2nbIz) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
 
 Jason Chan, Robert Gaizauskas, **<span style="color:grey">Zhixue Zhao</span>**
@@ -39,25 +55,12 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jö
 
 [ICLR2025](https://openreview.net/pdf?id=ugyqNEOjoU) ScImage: How good are multimodal large language models at scientific text-to-image generation? 
 
-Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**. 
+Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**
+
 
 [TACL2025](https://arxiv.org/pdf/2408.14398) Investigating Language-Specific Calibration for Pruning Multilingual Large Language Models
 
 Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
-
-[ICWSM26](https://arxiv.org/abs/2505.18916) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
-
-Yue Li, Jake Vasilakes, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
-
-
-[AAAI26 Oral](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
-
-Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, Andre Freitas
-
-
-[AAAI2026 Poster](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) Making Visual Dialogue More Engaging: A New Task, Method, and Metric
-
-Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</span>**, Kehan Wang, Xupeng Zha, Zhihua Jiang
 
 
 [EMNLP2025 Main](https://arxiv.org/pdf/2412.03400?) Minimal, Local, and Robust: Embedding-Only Edits for Implicit Bias in T2I Models
