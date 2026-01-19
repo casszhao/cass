@@ -14,7 +14,7 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-🚀 [A fully funded PhD studentship](https://shorturl.at/WBJWL) @SheffieldNLP. Join us to explore cutting-edge topics in AI safety and Generative AI integrity 🧠✨ Get in touch if you’d like to chat about the PhD, our research, or life in Sheffield! Also, one UK home standard studentship is available in 2027.
+🚀 One UK home standard studentship is available in 2027 [@SheffieldNLP](https://x.com/SheffieldNLP). Join us to explore cutting-edge topics in AI safety and Generative AI integrity 🧠✨ Get in touch if you’d like to chat about the PhD, our research, or life in Sheffield! 
 
 📩 If you’re considering self-funding or already have external funding, please feel free to contact me with your CV. Visiting students are also very welcome!
 
@@ -24,7 +24,7 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-## Selected Publications in 2025
+## Selected Publications in 2025/26
 
 
 
@@ -41,6 +41,16 @@ Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</spa
 [ICWSM26](https://arxiv.org/abs/2505.18916) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
 
 Yue Li, Jake Vasilakes, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
+
+
+[EACL2026 Main](https://arxiv.org/pdf/2512.12503) KidsArtBench: Multi-Dimensional Children’s Art Evaluation with Attribute-Aware MLLMs
+
+Mingrui Ye, Chanjin Zheng, Zengyi Yu, Chenyu Xiang, **<span style="color:grey">Zhixue Zhao</span>**, Zheng Yuan, Helen Yannakoudakis 
+
+
+[EACL2026 Findings](https://arxiv.org/pdf/2506.06113?) Seeing All Sides: Multi-Perspective In-Context Learning for Subjective NLP
+
+Benedetta Muscato, Yue Li, Gizem Gezici, **<span style="color:grey">Zhixue Zhao</span>**, Fosca Giannotti 
 
 
 [ICML2025](https://openreview.net/pdf?id=uqpML2nbIz) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
