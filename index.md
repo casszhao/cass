@@ -26,7 +26,13 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 
 ## Selected Publications in 2025/26
 
+[ICLR2026](https://arxiv.org/pdf/2505.20819?) Tracing and Reversing Edits in LLMs: A Study on Rank-One Model Edits
 
+Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Christin Seifert, Jörg Schlötterer
+
+[ICLR2026](https://openreview.net/pdf?id=dyooGJcKJg) PerSpectra: A Scalable and Configurable Pluralist Benchmark of Perspectives from Arguments
+
+Shangrui Nie, Kian Omoomi, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**, Charles Welch
 
 [AAAI26 Oral](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
 
