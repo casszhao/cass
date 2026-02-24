@@ -26,6 +26,10 @@ Previously, I worked as a Postdoc researcher on explainable AI and responsible A
 
 ## Selected Publications in 2025/26
 
+[CVPR2026](https://openreview.net/pdf?id=S35l5fi0ZY) SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models
+
+Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Tengfei Ma, Kehan Wang, Steffen Eger, Zhihua Jiang
+
 [ICLR2026](https://arxiv.org/pdf/2505.20819?) Tracing and Reversing Edits in LLMs: A Study on Rank-One Model Edits
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Christin Seifert, Jörg Schlötterer
@@ -43,6 +47,9 @@ Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Z
 
 Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</span>**, Kehan Wang, Xupeng Zha, Zhihua Jiang
 
+[TACL2026](https://arxiv.org/pdf/2408.14398) Investigating Language-Specific Calibration for Pruning Multilingual Large Language Models
+
+Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
 
 [ICWSM26](https://arxiv.org/abs/2505.18916) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
 
@@ -72,11 +79,6 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jö
 [ICLR2025](https://openreview.net/pdf?id=ugyqNEOjoU) ScImage: How good are multimodal large language models at scientific text-to-image generation? 
 
 Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**
-
-
-[TACL2025](https://arxiv.org/pdf/2408.14398) Investigating Language-Specific Calibration for Pruning Multilingual Large Language Models
-
-Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
 
 
 [EMNLP2025 Main](https://arxiv.org/pdf/2412.03400?) Minimal, Local, and Robust: Embedding-Only Edits for Implicit Bias in T2I Models
