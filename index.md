@@ -6,11 +6,9 @@ layout: default
 
 <img class="profile-picture" src="avatar.jpg">
 
-I am Cass Zhixue Zhao, a lecturer (Assistant Professor) in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. My long-term research goal is to enable trustworthy, responsible, and efficient NLP models. These days, I am interested in anything related to **interpretability** and **large language models** (LLMs). My recent research projects focus on **model compression**, **model editing**, and **text-to-image models**. 
+I am Cass Zhixue Zhao, lecturer (Assistant Professor) in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield. My long-term research goal is to enable trustworthy, responsible, and efficient NLP models. These days, I am interested in anything related to **interpretability** and **large language models** (LLMs). My recent research projects focus on **model compression**, **model editing**, and **text-to-image models**. Previously, I served as co-Principal Investigator on the [ExU](https://exuproject.sites.sheffield.ac.uk/) project, developing multilingual AI tools to support journalists and fact-checkers in identifying disinformation narratives. During my postdoc, I worked on explainable AI and responsible AI. I have also contributed to NIHR-funded NLP projects using NLP to support systematic reviews in public health. My doctoral work focuses on transfer learning and bias mitigation in hate speech detection.
 
 According to [CSRankings](https://csrankings.org/#/fromyear/2024/toyear/2026/index?all&gb), I have been among the most productive AI researchers in the UK since 2024 (12 recorded publications accepted to top conferences, or 3.2 divided for co-authorship; for comparison, 18/3 for the top one). I always feel inspired and passionate about working with different researchers.
-
-Previously, I served as co-Principal Investigator on the [ExU](https://exuproject.sites.sheffield.ac.uk/) project, developing multilingual AI tools to support journalists and fact-checkers in identifying disinformation narratives. During my postdoc, I worked on explainable AI and responsible AI. The overarching aim is to demystify predictions made by black-box LLMs, making them easier to understand and trustworthy. The work also addresses model hallucination to ensure the reliability of LLMs, alongside exploring model compression techniques that mitigate compute demands and thus foster inclusivity within NLP research. Back in 2020, I worked as a research assistant within the same department, working on NIHR-funded NLP projects for systematic reviews of public health research. My Ph.D. research, funded by the University of Sheffield, examined transfer learning and mitigating model bias in hate speech detection.
 
 
 <font color=White>Test</font>
@@ -27,6 +25,10 @@ Previously, I served as co-Principal Investigator on the [ExU](https://exuprojec
 <font color=White>Test</font>
 
 ## Selected Publications in 2025/26
+
+[KDD2026](https://arxiv.org/pdf/2511.05852) Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation
+
+Yinjie Cheng, Paul Youssef, Christin Seifert, Jörg Schlötterer, **<span style="color:grey">Zhixue Zhao</span>**
 
 [CVPR2026](https://openreview.net/pdf?id=S35l5fi0ZY) SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models
 
