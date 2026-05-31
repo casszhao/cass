@@ -47,7 +47,7 @@ Shangrui Nie, Kian Omoomi, Lucie Flek, **<span style="color:grey">Zhixue Zhao</s
 Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, Andre Freitas
 
 
-[AAAI2026 Poster](https://ojs.aaai.org/index.php/AAAI/article/view/38650） Making Visual Dialogue More Engaging: A New Task, Method, and Metric
+[AAAI2026 Poster](https://ojs.aaai.org/index.php/AAAI/article/view/38650) Making Visual Dialogue More Engaging: A New Task, Method, and Metric
 
 Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</span>**, Kehan Wang, Xupeng Zha, Zhihua Jiang
 
