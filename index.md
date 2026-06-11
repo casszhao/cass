@@ -30,7 +30,7 @@ According to [CSRankings](https://csrankings.org/#/fromyear/2024/toyear/2026/ind
 
 Yinjie Cheng, Paul Youssef, Christin Seifert, Jörg Schlötterer, **<span style="color:grey">Zhixue Zhao</span>**
 
-[CVPR2026](https://openreview.net/pdf?id=S35l5fi0ZY) SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models
+[CVPR2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.pdf) SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models
 
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Tengfei Ma, Kehan Wang, Steffen Eger, Zhihua Jiang
 
@@ -55,7 +55,7 @@ Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</spa
 
 Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
 
-[ICWSM26](https://arxiv.org/abs/2505.18916) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
+[ICWSM26](https://ojs.aaai.org/index.php/ICWSM/article/view/42707/50267) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
 
 Yue Li, Jake Vasilakes, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
 
