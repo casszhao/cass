@@ -70,7 +70,7 @@ Mingrui Ye, Chanjin Zheng, Zengyi Yu, Chenyu Xiang, **<span style="color:grey">Z
 Benedetta Muscato, Yue Li, Gizem Gezici, **<span style="color:grey">Zhixue Zhao</span>**, Fosca Giannotti 
 
 
-[ICML2025](https://openreview.net/pdf?id=uqpML2nbIz) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
+[ICML2025](https://dl.acm.org/doi/abs/10.5555/3780338.3780607) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
 
 Jason Chan, Robert Gaizauskas, **<span style="color:grey">Zhixue Zhao</span>**
 
