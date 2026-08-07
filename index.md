@@ -14,9 +14,9 @@ According to [CSRankings](https://csrankings.org/#/fromyear/2024/toyear/2026/ind
 <font color=White>Test</font>
 <font color=White>Test</font>
 
-🚀 One UK home standard studentship is available in 2027 [@SheffieldNLP](https://x.com/SheffieldNLP). Join us to explore cutting-edge topics in AI safety and Generative AI integrity 🧠✨ Get in touch if you’d like to chat about the PhD, our research, or life in Sheffield! 
+🚀 One UK home standard studentship is available starting in [Oct/Nov 2026 @SheffieldNLP](https://www.findaphd.com/phds/project/reliable-and-efficient-adaptation-of-large-language-models/?p198036). Join us to explore cutting-edge topics in AI safety and Generative AI integrity 🧠✨ 
 
-📩 If you’re considering self-funding or already have external funding, please feel free to contact me with your CV. Visiting students are also very welcome!
+📩 If you’re considering self-funding or already have external funding, please feel free to contact me with your CV. Visiting students are also very welcome! Get in touch if you’d like to chat about the PhD, our research, or life in Sheffield (please indicate your funding plan in your email).
 
 
 
