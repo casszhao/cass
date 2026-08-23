@@ -30,6 +30,12 @@ According to [CSRankings](https://csrankings.org/#/fromyear/2024/toyear/2026/ind
 
 Yinjie Cheng, Paul Youssef, Christin Seifert, Jörg Schlötterer, **<span style="color:grey">Zhixue Zhao</span>**
 
+[EMNLP2026](https://openreview.net/pdf?id=LkZMtWhCxK) From Value Conditioning to Behavioral Shift: Lightweight Value Alignment of LLMs
+Shangrui Nie, Florian Mai, David Kaczér, Charles Welch, **<span style="color:grey">Zhixue Zhao</span>**, Lucie Flek
+
+[EMNLP2026 Findings](https://arxiv.org/pdf/2604.22266) LLMs Decide Early and Explain Later: You Can Stop Them Early
+Ayan Datta, **<span style="color:grey">Zhixue Zhao</span>**, Mounika Marreddy, Bhuvanesh Verma, Radhika Mamidi, Alexander Mehler
+
 [CVPR2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.pdf) SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models
 
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Tengfei Ma, Kehan Wang, Steffen Eger, Zhihua Jiang
