@@ -86,7 +86,7 @@ Jason Chan, Robert Gaizauskas, **<span style="color:grey">Zhixue Zhao</span>**
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jörg Schlötterer, Christin Seifert
 
 
-[ICLR2025](https://openreview.net/pdf?id=ugyqNEOjoU) ScImage: How good are multimodal large language models at scientific text-to-image generation? 
+[ICLR2025](https://iclr.cc/virtual/2025/poster/27964) ScImage: How good are multimodal large language models at scientific text-to-image generation? 
 
 Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**
 
