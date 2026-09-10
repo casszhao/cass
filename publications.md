@@ -6,6 +6,18 @@ is_contact: true
 
 ## Publications
 
+[AACL2026 Findings](https://openreview.net/forum?id=bfeSYJnUNa#discussion) Edit Robustness Under Fine-Tuning in Text-to-Image Models
+
+Feng He, Marco Valentino, **<span style="color:grey">Zhixue Zhao</span>**
+
+[AACL2026 Findings](https://openreview.net/forum?id=I6R1yvcCFg#discussion) Think When Unsure: Leveraging Model Confidence to Decide When to Use Chain-of-Thought
+
+Samuel Lewis-Lim, Xingwei Tan, **<span style="color:grey">Zhixue Zhao</span>**, Nikolaos Aletras
+
+[AACL2026 Findings](https://openreview.net/forum?id=aGdiFNOK82) From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks
+
+Ayan Datta, Mounika Marreddy, Alexander Mehler, **<span style="color:grey">Zhixue Zhao</span>**, Radhika Mamidi
+
 
 [ECIR2025](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_30) Do LLMs Provide Consistent Answers to Health-Related Questions Across Languages? 
 
