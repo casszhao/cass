@@ -1,0 +1,13 @@
+{% assign citation = site.data.citations[include.key] %}
+{% if citation %}
+<details class="bibtex">
+  <summary aria-label="Show BibTeX for {{ citation.title | escape }}" title="Show BibTeX citation"><span aria-hidden="true">{ }</span> BIB</summary>
+  <div class="bibtex-panel">
+    <div class="bibtex-actions">
+      <button type="button" class="bibtex-copy" hidden aria-label="Copy BibTeX for {{ citation.title | escape }}">Copy BibTeX</button>
+      <span class="bibtex-status" role="status" aria-live="polite"></span>
+    </div>
+    <pre tabindex="0" aria-label="BibTeX citation"><code>{{ citation.bibtex | escape }}</code></pre>
+  </div>
+</details>
+{% endif %}

@@ -1,0 +1,314 @@
+{
+  "cheng2026finetuning": {
+    "title": "Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation",
+    "bibtex": "@inproceedings{cheng2026finetuning,\n  title = {{Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation}},\n  author = {Cheng, Yinjie and Youssef, Paul and Seifert, Christin and Schl{\\\"o}tterer, J{\\\"o}rg and Zhao, Zhixue},\n  year = {2026},\n  booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},\n  doi = {10.1145/3770855.3817879},\n  url = {https://doi.org/10.1145/3770855.3817879}\n}",
+    "source": "https://arxiv.org/abs/2511.05852",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "index.md"
+  },
+  "nie2026value": {
+    "title": "From Value Conditioning to Behavioral Shift: Lightweight Value Alignment of LLMs",
+    "bibtex": "@inproceedings{nie2026value,\n  title = {{From Value Conditioning to Behavioral Shift: Lightweight Value Alignment of LLMs}},\n  author = {Nie, Shangrui and Mai, Florian and Kacz{\\'e}r, David and Welch, Charles and Zhao, Zhixue and Flek, Lucie},\n  year = {2026},\n  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},\n  url = {https://openreview.net/forum?id=LkZMtWhCxK}\n}",
+    "source": "https://openreview.net/pdf?id=LkZMtWhCxK",
+    "verification": "author-website",
+    "notes": "Title, authors, venue and year follow the author website. Final publisher metadata was not accessible; no unverified pages or DOI added.",
+    "listed_on": "index.md"
+  },
+  "datta2026early": {
+    "title": "LLMs Decide Early and Explain Later: You Can Stop Them Early",
+    "bibtex": "@inproceedings{datta2026early,\n  title = {{LLMs Decide Early and Explain Later: You Can Stop Them Early}},\n  author = {Datta, Ayan and Zhao, Zhixue and Marreddy, Mounika and Verma, Bhuvanesh and Mamidi, Radhika and Mehler, Alexander},\n  year = {2026},\n  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2026},\n  url = {https://arxiv.org/abs/2604.22266}\n}",
+    "source": "https://arxiv.org/abs/2604.22266",
+    "verification": "author-website",
+    "notes": "Title, authors, venue and year follow the author website. Final publisher metadata was not accessible; no unverified pages or DOI added. Conference title and author order follow the author website; the linked arXiv version has an earlier title and different author order.",
+    "listed_on": "index.md"
+  },
+  "Ye_2026_CVPR": {
+    "title": "SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models",
+    "bibtex": "@inproceedings{Ye_2026_CVPR,\n  title = {{SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models}},\n  author = {Ye, Guanghui and Zhao, Huan and Zhao, Zhixue and Ma, Tengfei and Wang, Kehan and Eger, Steffen and Jiang, Zhihua},\n  year = {2026},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  pages = {29760--29770},\n  month = {June},\n  url = {https://openaccess.thecvf.com/content/CVPR2026/html/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.html}\n}",
+    "source": "https://openaccess.thecvf.com/content/CVPR2026/html/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.html",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "index.md"
+  },
+  "youssef2026tracing": {
+    "title": "Tracing and Reversing Edits in LLMs: A Study on Rank-One Model Edits",
+    "bibtex": "@inproceedings{youssef2026tracing,\n  title = {{Tracing and Reversing Edits in LLMs}},\n  author = {Youssef, Paul and Zhao, Zhixue and Seifert, Christin and Schl{\\\"o}tterer, J{\\\"o}rg},\n  year = {2026},\n  booktitle = {The Fourteenth International Conference on Learning Representations},\n  url = {https://proceedings.iclr.cc/paper_files/paper/2026/hash/28bfea825dc61f7adc9f1e2eaf5bdd2b-Abstract-Conference.html}\n}",
+    "source": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/28bfea825dc61f7adc9f1e2eaf5bdd2b-Abstract-Conference.html",
+    "verification": "source-metadata",
+    "notes": "Final proceedings title omits the subtitle shown on the website.",
+    "listed_on": "index.md"
+  },
+  "nie2026perspectra": {
+    "title": "PerSpectra: A Scalable and Configurable Pluralist Benchmark of Perspectives from Arguments",
+    "bibtex": "@inproceedings{nie2026perspectra,\n  title = {{PerSpectra: A Scalable and Configurable Pluralist Benchmark of Perspectives from Arguments}},\n  author = {Nie, Shangrui and Omoomi, Kian and Flek, Lucie and Zhao, Zhixue and Welch, Charles},\n  year = {2026},\n  booktitle = {The Fourteenth International Conference on Learning Representations},\n  url = {https://proceedings.iclr.cc/paper_files/paper/2026/hash/7be86db6ef1209cf97a418758101fa7c-Abstract-Conference.html}\n}",
+    "source": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/7be86db6ef1209cf97a418758101fa7c-Abstract-Conference.html",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "index.md"
+  },
+  "valentino2026mitigating": {
+    "title": "Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering",
+    "bibtex": "@inproceedings{valentino2026mitigating,\n  title = {{Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering}},\n  author = {Valentino, Marco and Kim, Geonhee and Dalal, Dhairya and Zhao, Zhixue and Freitas, Andr{\\'e}},\n  year = {2026},\n  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},\n  volume = {40},\n  number = {39},\n  pages = {33314--33322},\n  doi = {10.1609/aaai.v40i39.40617},\n  url = {https://ojs.aaai.org/index.php/AAAI/article/view/40617}\n}",
+    "source": "https://ojs.aaai.org/index.php/AAAI/article/view/40617",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "index.md"
+  },
+  "ye2026making": {
+    "title": "Making Visual Dialogue More Engaging: A New Task, Method, and Metric",
+    "bibtex": "@inproceedings{ye2026making,\n  title = {{Making Visual Dialogue More Engaging: A New Task, Method, and Metric}},\n  author = {Ye, Guanghui and Zhao, Huan and Gao, Yingxue and Zhao, Zhixue and Wang, Kehan and Zha, Xupeng and Jiang, Zhihua},\n  year = {2026},\n  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},\n  volume = {40},\n  number = {19},\n  pages = {16145--16153},\n  doi = {10.1609/aaai.v40i19.38650},\n  url = {https://ojs.aaai.org/index.php/AAAI/article/view/38650}\n}",
+    "source": "https://ojs.aaai.org/index.php/AAAI/article/view/38650",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "index.md"
+  },
+  "kurz-etal-2026-limitations": {
+    "title": "Investigating Language-Specific Calibration for Pruning Multilingual Large Language Models",
+    "bibtex": "@article{kurz-etal-2026-limitations,\n    title = \"On the Limitations of Language-targeted Pruning: Investigating the Calibration Language Impact in Multilingual {LLM} Pruning\",\n    author = \"Kurz, Simon  and\n      Chen, Jian-Jia  and\n      Flek, Lucie  and\n      Zhao, Zhixue\",\n    journal = \"Transactions of the Association for Computational Linguistics\",\n    volume = \"14\",\n    year = \"2026\",\n    address = \"Cambridge, MA\",\n    publisher = \"MIT Press\",\n    url = \"https://aclanthology.org/2026.tacl-1.9/\",\n    doi = \"10.1162/tacl.a.599\",\n    pages = \"167--192\"\n}",
+    "source": "https://aclanthology.org/2026.tacl-1.9.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export. Final title: On the Limitations of Language-targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning.",
+    "listed_on": "index.md"
+  },
+  "li2026scrum9": {
+    "title": "SCRum-9: Multilingual Stance Classification over Rumours on Social Media",
+    "bibtex": "@inproceedings{li2026scrum9,\n  title = {{SCRum-9: Multilingual Stance Classification over Rumours on Social Media}},\n  author = {Li, Yue and Vasilakes, Jake and Zhao, Zhixue and Scarton, Carolina},\n  year = {2026},\n  booktitle = {Proceedings of the International AAAI Conference on Web and Social Media},\n  volume = {20},\n  number = {1},\n  pages = {1471--1487},\n  doi = {10.1609/icwsm.v20i1.42707},\n  url = {https://ojs.aaai.org/index.php/ICWSM/article/view/42707}\n}",
+    "source": "https://ojs.aaai.org/index.php/ICWSM/article/view/42707",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "index.md"
+  },
+  "ye-etal-2026-kidsartbench": {
+    "title": "KidsArtBench: Multi-Dimensional Children’s Art Evaluation with Attribute-Aware MLLMs",
+    "bibtex": "@inproceedings{ye-etal-2026-kidsartbench,\n    title = \"{K}ids{A}rt{B}ench: Multi-Dimensional Children{'}s Art Evaluation with Attribute-Aware {MLLM}s\",\n    author = \"Ye, Mingrui  and\n      Zheng, Chanjin  and\n      Yu, Zengyi  and\n      Xiang, Chenyu  and\n      Zhao, Zhixue  and\n      Yuan, Zheng  and\n      Yannakoudakis, Helen\",\n    editor = \"Demberg, Vera  and\n      Inui, Kentaro  and\n      Marquez, Llu{\\'i}s\",\n    booktitle = \"Proceedings of the 19th Conference of the {E}uropean Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)\",\n    month = mar,\n    year = \"2026\",\n    address = \"Rabat, Morocco\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2026.eacl-long.267/\",\n    doi = \"10.18653/v1/2026.eacl-long.267\",\n    pages = \"5702--5722\",\n    ISBN = \"979-8-89176-380-7\"\n}",
+    "source": "https://aclanthology.org/2026.eacl-long.267.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "muscato-etal-2026-seeing": {
+    "title": "Seeing All Sides: Multi-Perspective In-Context Learning for Subjective NLP",
+    "bibtex": "@inproceedings{muscato-etal-2026-seeing,\n    title = \"Seeing All Sides: Multi-Perspective In-Context Learning for Subjective {NLP}\",\n    author = \"Muscato, Benedetta  and\n      Li, Yue  and\n      Gezici, Gizem  and\n      Zhao, Zhixue  and\n      Giannotti, Fosca\",\n    editor = \"Demberg, Vera  and\n      Inui, Kentaro  and\n      Marquez, Llu{\\'i}s\",\n    booktitle = \"Findings of the {A}ssociation for {C}omputational {L}inguistics: {EACL} 2026\",\n    month = mar,\n    year = \"2026\",\n    address = \"Rabat, Morocco\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2026.findings-eacl.137/\",\n    doi = \"10.18653/v1/2026.findings-eacl.137\",\n    pages = \"2622--2638\",\n    ISBN = \"979-8-89176-386-9\"\n}",
+    "source": "https://aclanthology.org/2026.findings-eacl.137.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "pmlr-v267-chan25a": {
+    "title": "Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic",
+    "bibtex": "@inproceedings{pmlr-v267-chan25a,\n  title = {{RULEBREAKERS: Challenging LLMs at the Crossroads between Formal Logic and Human-like Reasoning}},\n  author = {Chan, Jason and Gaizauskas, Robert J. and Zhao, Zhixue},\n  year = {2025},\n  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},\n  volume = {267},\n  series = {Proceedings of Machine Learning Research},\n  publisher = {PMLR},\n  pages = {7276--7305},\n  url = {https://proceedings.mlr.press/v267/chan25a.html}\n}",
+    "source": "https://proceedings.mlr.press/v267/chan25a.html",
+    "verification": "source-metadata",
+    "notes": "Uses the final ICML title rather than the earlier Rulebreakers Challenge title.",
+    "listed_on": "index.md"
+  },
+  "pmlr-v267-youssef25a": {
+    "title": "Position: Editing Large Language Models Poses Serious Safety Risks",
+    "bibtex": "@inproceedings{pmlr-v267-youssef25a,\n  title = {{Position: Editing Large Language Models Poses Serious Safety Risks}},\n  author = {Youssef, Paul and Zhao, Zhixue and Braun, Daniel and Schl{\\\"o}tterer, J{\\\"o}rg and Seifert, Christin},\n  year = {2025},\n  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},\n  volume = {267},\n  series = {Proceedings of Machine Learning Research},\n  publisher = {PMLR},\n  pages = {82426--82440},\n  url = {https://proceedings.mlr.press/v267/youssef25a.html}\n}",
+    "source": "https://proceedings.mlr.press/v267/youssef25a.html",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "index.md"
+  },
+  "zhang2025scimage": {
+    "title": "ScImage: How good are multimodal large language models at scientific text-to-image generation?",
+    "bibtex": "@inproceedings{zhang2025scimage,\n  title = {{ScImage: How good are multimodal large language models at scientific text-to-image generation?}},\n  author = {Zhang, Leixin and Eger, Steffen and Cheng, Yinjie and Zhai, Weihe and Belouadi, Jonas and Moafian, Fahimeh and Zhao, Zhixue},\n  year = {2025},\n  booktitle = {The Thirteenth International Conference on Learning Representations},\n  url = {https://proceedings.iclr.cc/paper_files/paper/2025/hash/146b5b0feb14fe8e630669ad1faba25e-Abstract-Conference.html}\n}",
+    "source": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/146b5b0feb14fe8e630669ad1faba25e-Abstract-Conference.html",
+    "verification": "source-metadata",
+    "notes": "Uses the ICLR author order, with Steffen Eger second.",
+    "listed_on": "index.md"
+  },
+  "he-etal-2025-minimal": {
+    "title": "Minimal, Local, and Robust: Embedding-Only Edits for Implicit Bias in T2I Models",
+    "bibtex": "@inproceedings{he-etal-2025-minimal,\n    title = \"Minimal, Local, and Robust: Embedding-Only Edits for Implicit Bias in {T}2{I} Models\",\n    author = \"He, Feng  and\n      Zhang, Chao  and\n      Zhao, Zhixue\",\n    editor = \"Christodoulopoulos, Christos  and\n      Chakraborty, Tanmoy  and\n      Rose, Carolyn  and\n      Peng, Violet\",\n    booktitle = \"Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing\",\n    month = nov,\n    year = \"2025\",\n    address = \"Suzhou, China\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.emnlp-main.777/\",\n    doi = \"10.18653/v1/2025.emnlp-main.777\",\n    pages = \"15374--15392\",\n    ISBN = \"979-8-89176-332-6\"\n}",
+    "source": "https://aclanthology.org/2025.emnlp-main.777.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "li-etal-2025-label": {
+    "title": "Label Set Optimization via Activation Distribution Kurtosis for Zero-Shot Classification with Generative Models",
+    "bibtex": "@inproceedings{li-etal-2025-label,\n    title = \"Label Set Optimization via Activation Distribution Kurtosis for Zero-Shot Classification with Generative Models\",\n    author = \"Li, Yue  and\n      Zhao, Zhixue  and\n      Scarton, Carolina\",\n    editor = \"Christodoulopoulos, Christos  and\n      Chakraborty, Tanmoy  and\n      Rose, Carolyn  and\n      Peng, Violet\",\n    booktitle = \"Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing\",\n    month = nov,\n    year = \"2025\",\n    address = \"Suzhou, China\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.emnlp-main.1617/\",\n    doi = \"10.18653/v1/2025.emnlp-main.1617\",\n    pages = \"31724--31741\",\n    ISBN = \"979-8-89176-332-6\"\n}",
+    "source": "https://aclanthology.org/2025.emnlp-main.1617.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "li-etal-2025-context-learning": {
+    "title": "It's All About In-Context Learning! Teaching Extremely Low-Resource Languages to LLMs",
+    "bibtex": "@inproceedings{li-etal-2025-context-learning,\n    title = \"It{'}s All About In-Context Learning! Teaching Extremely Low-Resource Languages to {LLM}s\",\n    author = \"Li, Yue  and\n      Zhao, Zhixue  and\n      Scarton, Carolina\",\n    editor = \"Christodoulopoulos, Christos  and\n      Chakraborty, Tanmoy  and\n      Rose, Carolyn  and\n      Peng, Violet\",\n    booktitle = \"Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing\",\n    month = nov,\n    year = \"2025\",\n    address = \"Suzhou, China\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.emnlp-main.1502/\",\n    doi = \"10.18653/v1/2025.emnlp-main.1502\",\n    pages = \"29544--29559\",\n    ISBN = \"979-8-89176-332-6\"\n}",
+    "source": "https://aclanthology.org/2025.emnlp-main.1502.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "zhou-etal-2025-revisiting": {
+    "title": "Revisiting Pruning vs Quantization for Small Language Models",
+    "bibtex": "@inproceedings{zhou-etal-2025-revisiting,\n    title = \"Revisiting Pruning vs Quantization for Small Language Models\",\n    author = \"Zhou, Zihan  and\n      Kurz, Simon  and\n      Zhao, Zhixue\",\n    editor = \"Christodoulopoulos, Christos  and\n      Chakraborty, Tanmoy  and\n      Rose, Carolyn  and\n      Peng, Violet\",\n    booktitle = \"Findings of the Association for Computational Linguistics: EMNLP 2025\",\n    month = nov,\n    year = \"2025\",\n    address = \"Suzhou, China\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.findings-emnlp.645/\",\n    doi = \"10.18653/v1/2025.findings-emnlp.645\",\n    pages = \"12055--12070\",\n    ISBN = \"979-8-89176-335-7\"\n}",
+    "source": "https://aclanthology.org/2025.findings-emnlp.645.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "lewis-lim-etal-2025-analysing": {
+    "title": "Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?",
+    "bibtex": "@inproceedings{lewis-lim-etal-2025-analysing,\n    title = \"Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?\",\n    author = \"Lewis-Lim, Samuel  and\n      Tan, Xingwei  and\n      Zhao, Zhixue  and\n      Aletras, Nikolaos\",\n    editor = \"Christodoulopoulos, Christos  and\n      Chakraborty, Tanmoy  and\n      Rose, Carolyn  and\n      Peng, Violet\",\n    booktitle = \"Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing\",\n    month = nov,\n    year = \"2025\",\n    address = \"Suzhou, China\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.emnlp-main.1516/\",\n    doi = \"10.18653/v1/2025.emnlp-main.1516\",\n    pages = \"29838--29853\",\n    ISBN = \"979-8-89176-332-6\"\n}",
+    "source": "https://aclanthology.org/2025.emnlp-main.1516.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "ye-etal-2025-knowledge": {
+    "title": "Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models",
+    "bibtex": "@inproceedings{ye-etal-2025-knowledge,\n    title = \"Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models\",\n    author = \"Ye, Guanghui  and\n      Zhao, Huan  and\n      Zhao, Zhixue  and\n      Zha, Xupeng  and\n      Liu, Yang  and\n      Jiang, Zhihua\",\n    editor = \"Che, Wanxiang  and\n      Nabende, Joyce  and\n      Shutova, Ekaterina  and\n      Pilehvar, Mohammad Taher\",\n    booktitle = \"Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)\",\n    month = jul,\n    year = \"2025\",\n    address = \"Vienna, Austria\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.acl-long.1063/\",\n    doi = \"10.18653/v1/2025.acl-long.1063\",\n    pages = \"21883--21896\",\n    ISBN = \"979-8-89176-251-0\"\n}",
+    "source": "https://aclanthology.org/2025.acl-long.1063.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "chen-etal-2025-explainable": {
+    "title": "Explainable Hallucination through Natural Language Inference Mapping",
+    "bibtex": "@inproceedings{chen-etal-2025-explainable,\n    title = \"Explainable Hallucination through Natural Language Inference Mapping\",\n    author = \"Chen, Wei-Fan  and\n      Zhao, Zhixue  and\n      Karimi, Akbar  and\n      Flek, Lucie\",\n    editor = \"Che, Wanxiang  and\n      Nabende, Joyce  and\n      Shutova, Ekaterina  and\n      Pilehvar, Mohammad Taher\",\n    booktitle = \"Findings of the Association for Computational Linguistics: ACL 2025\",\n    month = jul,\n    year = \"2025\",\n    address = \"Vienna, Austria\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.findings-acl.96/\",\n    doi = \"10.18653/v1/2025.findings-acl.96\",\n    pages = \"1888--1896\",\n    ISBN = \"979-8-89176-256-5\"\n}",
+    "source": "https://aclanthology.org/2025.findings-acl.96.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "li2025aigc": {
+    "title": "AI-generated content in cross-domain applications: Research trends, challenges and propositions",
+    "bibtex": "@article{li2025aigc,\n  title = {{AI-generated content in cross-domain applications: Research trends, challenges and propositions}},\n  author = {Li, Jianxin and Qu, Liang and Cai, Taotao and Zhao, Zhixue and Haldar, Nur Al Hasan and Krishna, Aneesh and Kong, Xiangjie and Romero Macau, Flavio and Chakraborty, Tanmoy and Deroy, Aniket and Lin, Binshan and Blackmore, Karen and Noman, Nasimul and Cheng, Jingxian and Cui, Ningning and Xu, Jianliang},\n  year = {2025},\n  journal = {Knowledge-Based Systems},\n  volume = {330},\n  pages = {114634},\n  doi = {10.1016/j.knosys.2025.114634},\n  url = {https://www.sciencedirect.com/science/article/pii/S0950705125016739}\n}",
+    "source": "https://www.sciencedirect.com/science/article/pii/S0950705125016739",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "index.md"
+  },
+  "ye2025ccde": {
+    "title": "CCDE: A Compact and Competitive Dialogue Evaluation Framework via Knowledge Distillation of Large Language Models",
+    "bibtex": "@article{ye2025ccde,\n  title = {{CCDE: A Compact and Competitive Dialogue Evaluation Framework via Knowledge Distillation of Large Language Models}},\n  author = {Ye, Guanghui and Zhao, Huan and Li, Bo and Chen, Haijiao and Zhao, Zhixue and Jiang, Zhihua and Li, Keqin},\n  year = {2025},\n  journal = {IEEE Transactions on Computational Social Systems},\n  doi = {10.1109/TCSS.2025.3580272},\n  url = {https://eprints.whiterose.ac.uk/id/eprint/231513/}\n}",
+    "source": "https://eprints.whiterose.ac.uk/id/eprint/231513/",
+    "verification": "source-metadata",
+    "notes": "Includes the seventh author, Keqin Li, who is absent from the website listing. Volume and pages omitted until checked against the final publisher record.",
+    "listed_on": "index.md"
+  },
+  "youssef-etal-2025-make": {
+    "title": "How to Make LLMs Forget: On Reversing In-Context Knowledge Edits",
+    "bibtex": "@inproceedings{youssef-etal-2025-make,\n    title = \"How to Make {LLM}s Forget: On Reversing In-Context Knowledge Edits\",\n    author = {Youssef, Paul  and\n      Zhao, Zhixue  and\n      Schl{\\\"o}tterer, J{\\\"o}rg  and\n      Seifert, Christin},\n    editor = \"Chiruzzo, Luis  and\n      Ritter, Alan  and\n      Wang, Lu\",\n    booktitle = \"Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)\",\n    month = apr,\n    year = \"2025\",\n    address = \"Albuquerque, New Mexico\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.naacl-long.630/\",\n    doi = \"10.18653/v1/2025.naacl-long.630\",\n    pages = \"12656--12669\",\n    ISBN = \"979-8-89176-189-6\"\n}",
+    "source": "https://aclanthology.org/2025.naacl-long.630.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "index.md"
+  },
+  "youssef-etal-2025-fact": {
+    "title": "Has this Fact been Edited? Detecting Knowledge Edits in Language Models?",
+    "bibtex": "@inproceedings{youssef-etal-2025-fact,\n    title = \"Has this Fact been Edited? Detecting Knowledge Edits in Language Models\",\n    author = {Youssef, Paul  and\n      Zhao, Zhixue  and\n      Seifert, Christin  and\n      Schl{\\\"o}tterer, J{\\\"o}rg},\n    editor = \"Chiruzzo, Luis  and\n      Ritter, Alan  and\n      Wang, Lu\",\n    booktitle = \"Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)\",\n    month = apr,\n    year = \"2025\",\n    address = \"Albuquerque, New Mexico\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.naacl-long.492/\",\n    doi = \"10.18653/v1/2025.naacl-long.492\",\n    pages = \"9768--9784\",\n    ISBN = \"979-8-89176-189-6\"\n}",
+    "source": "https://aclanthology.org/2025.naacl-long.492.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export. Publisher author order is Youssef, Zhao, Seifert, Schlötterer; the listing has the last two reversed.",
+    "listed_on": "index.md"
+  },
+  "he2026editrobustness": {
+    "title": "Edit Robustness Under Fine-Tuning in Text-to-Image Models",
+    "bibtex": "@inproceedings{he2026editrobustness,\n  title = {{Edit Robustness Under Fine-Tuning in Text-to-Image Models}},\n  author = {He, Feng and Valentino, Marco and Zhao, Zhixue},\n  year = {2026},\n  booktitle = {Findings of the Association for Computational Linguistics: AACL 2026},\n  url = {https://openreview.net/forum?id=bfeSYJnUNa#discussion}\n}",
+    "source": "https://openreview.net/forum?id=bfeSYJnUNa#discussion",
+    "verification": "author-website",
+    "notes": "Title, authors, venue and year follow the author website. Final publisher metadata was not accessible; no unverified pages or DOI added.",
+    "listed_on": "publications.md"
+  },
+  "lewislim2026think": {
+    "title": "Think When Unsure: Leveraging Model Confidence to Decide When to Use Chain-of-Thought",
+    "bibtex": "@inproceedings{lewislim2026think,\n  title = {{Think When Unsure: Leveraging Model Confidence to Decide When to Use Chain-of-Thought}},\n  author = {Lewis-Lim, Samuel and Tan, Xingwei and Zhao, Zhixue and Aletras, Nikolaos},\n  year = {2026},\n  booktitle = {Findings of the Association for Computational Linguistics: AACL 2026},\n  url = {https://openreview.net/forum?id=I6R1yvcCFg#discussion}\n}",
+    "source": "https://openreview.net/forum?id=I6R1yvcCFg#discussion",
+    "verification": "author-website",
+    "notes": "Title, authors, venue and year follow the author website. Final publisher metadata was not accessible; no unverified pages or DOI added.",
+    "listed_on": "publications.md"
+  },
+  "datta2026counting": {
+    "title": "From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks",
+    "bibtex": "@inproceedings{datta2026counting,\n  title = {{From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks}},\n  author = {Datta, Ayan and Marreddy, Mounika and Mehler, Alexander and Zhao, Zhixue and Mamidi, Radhika},\n  year = {2026},\n  booktitle = {Findings of the Association for Computational Linguistics: AACL 2026},\n  url = {https://openreview.net/forum?id=aGdiFNOK82}\n}",
+    "source": "https://openreview.net/forum?id=aGdiFNOK82",
+    "verification": "author-website",
+    "notes": "Title, authors, venue and year follow the author website. Final publisher metadata was not accessible; no unverified pages or DOI added.",
+    "listed_on": "publications.md"
+  },
+  "schlicht2025consistent": {
+    "title": "Do LLMs Provide Consistent Answers to Health-Related Questions Across Languages?",
+    "bibtex": "@inproceedings{schlicht2025consistent,\n  title = {{Do LLMs Provide Consistent Answers to Health-Related Questions Across Languages?}},\n  author = {Schlicht, Ipek Baris and Zhao, Zhixue and Sayin, Burcu and Flek, Lucie and Rosso, Paolo},\n  year = {2025},\n  booktitle = {Advances in Information Retrieval},\n  series = {Lecture Notes in Computer Science},\n  volume = {15574},\n  pages = {314--322},\n  publisher = {Springer Nature Switzerland},\n  doi = {10.1007/978-3-031-88714-7_30},\n  url = {https://link.springer.com/chapter/10.1007/978-3-031-88714-7_30}\n}",
+    "source": "https://link.springer.com/chapter/10.1007/978-3-031-88714-7_30",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "publications.md"
+  },
+  "chrysostomou-etal-2024-investigating": {
+    "title": "Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization",
+    "bibtex": "@article{chrysostomou-etal-2024-investigating,\n    title = \"Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization\",\n    author = \"Chrysostomou, George  and\n      Zhao, Zhixue  and\n      Williams, Miles  and\n      Aletras, Nikolaos\",\n    journal = \"Transactions of the Association for Computational Linguistics\",\n    volume = \"12\",\n    year = \"2024\",\n    address = \"Cambridge, MA\",\n    publisher = \"MIT Press\",\n    url = \"https://aclanthology.org/2024.tacl-1.64/\",\n    doi = \"10.1162/tacl_a_00695\",\n    pages = \"1163--1181\"\n}",
+    "source": "https://aclanthology.org/2024.tacl-1.64.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "publications.md"
+  },
+  "zhao-aletras-2024-comparing": {
+    "title": "Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models",
+    "bibtex": "@inproceedings{zhao-aletras-2024-comparing,\n    title = \"Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models\",\n    author = \"Zhao, Zhixue  and\n      Aletras, Nikolaos\",\n    editor = \"Duh, Kevin  and\n      Gomez, Helena  and\n      Bethard, Steven\",\n    booktitle = \"Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)\",\n    month = jun,\n    year = \"2024\",\n    address = \"Mexico City, Mexico\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2024.naacl-long.178/\",\n    doi = \"10.18653/v1/2024.naacl-long.178\",\n    pages = \"3226--3244\"\n}",
+    "source": "https://aclanthology.org/2024.naacl-long.178.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "publications.md"
+  },
+  "zhao2024fair": {
+    "title": "The FAIR database: facilitating access to public health research literature",
+    "bibtex": "@article{zhao2024fair,\n  title = {{The FAIR database: facilitating access to public health research literature}},\n  author = {Zhao, Zhixue and Thomas, James and Kell, Gregory and Stansfield, Claire and Clowes, Mark and Graziosi, Sergio and Brunton, Jeff and Marshall, Iain James and Stevenson, Mark},\n  year = {2024},\n  journal = {JAMIA Open},\n  volume = {7},\n  number = {4},\n  pages = {ooae139},\n  doi = {10.1093/jamiaopen/ooae139},\n  url = {https://academic.oup.com/jamiaopen/article/7/4/ooae139/7923185}\n}",
+    "source": "https://academic.oup.com/jamiaopen/article/7/4/ooae139/7923185",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "publications.md"
+  },
+  "zhao2024reagent": {
+    "title": "ReAGent: A Model-agnostic Feature Attribution Method for Generative Language Models",
+    "bibtex": "@misc{zhao2024reagent,\n  title = {{ReAGent: A Model-agnostic Feature Attribution Method for Generative Language Models}},\n  author = {Zhao, Zhixue and Shan, Boxuan},\n  year = {2024},\n  eprint = {2402.00794},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.CL},\n  url = {https://arxiv.org/abs/2402.00794}\n}",
+    "source": "https://arxiv.org/abs/2402.00794",
+    "verification": "source-metadata",
+    "notes": "Cites the available arXiv record; the website labels this ReLM@AAAI24.",
+    "listed_on": "publications.md"
+  },
+  "zhao-aletras-2023-incorporating": {
+    "title": "Incorporating Attribution Importance for Improving Faithfulness Metrics",
+    "bibtex": "@inproceedings{zhao-aletras-2023-incorporating,\n    title = \"Incorporating Attribution Importance for Improving Faithfulness Metrics\",\n    author = \"Zhao, Zhixue  and\n      Aletras, Nikolaos\",\n    editor = \"Rogers, Anna  and\n      Boyd-Graber, Jordan  and\n      Okazaki, Naoaki\",\n    booktitle = \"Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)\",\n    month = jul,\n    year = \"2023\",\n    address = \"Toronto, Canada\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2023.acl-long.261/\",\n    doi = \"10.18653/v1/2023.acl-long.261\",\n    pages = \"4732--4745\"\n}",
+    "source": "https://aclanthology.org/2023.acl-long.261.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "publications.md"
+  },
+  "zhao-etal-2022-impact": {
+    "title": "On the Impact of Temporal Concept Drift on Model Explanations",
+    "bibtex": "@inproceedings{zhao-etal-2022-impact,\n    title = \"On the Impact of Temporal Concept Drift on Model Explanations\",\n    author = \"Zhao, Zhixue  and\n      Chrysostomou, George  and\n      Bontcheva, Kalina  and\n      Aletras, Nikolaos\",\n    editor = \"Goldberg, Yoav  and\n      Kozareva, Zornitsa  and\n      Zhang, Yue\",\n    booktitle = \"Findings of the Association for Computational Linguistics: EMNLP 2022\",\n    month = dec,\n    year = \"2022\",\n    address = \"Abu Dhabi, United Arab Emirates\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2022.findings-emnlp.298/\",\n    doi = \"10.18653/v1/2022.findings-emnlp.298\",\n    pages = \"4039--4054\"\n}",
+    "source": "https://aclanthology.org/2022.findings-emnlp.298.bib",
+    "verification": "publisher-export",
+    "notes": "Publisher BibTeX export.",
+    "listed_on": "publications.md"
+  },
+  "zhao2022subjectivity": {
+    "title": "Utilizing Subjectivity Level to Mitigate Identity Term Bias in Toxic Comments Classification",
+    "bibtex": "@article{zhao2022subjectivity,\n  title = {{Utilizing Subjectivity Level to Mitigate Identity Term Bias in Toxic Comments Classification}},\n  author = {Zhao, Zhixue and Zhang, Ziqi and Hopfgartner, Frank},\n  year = {2022},\n  journal = {Online Social Networks and Media},\n  volume = {29},\n  pages = {100205},\n  doi = {10.1016/j.osnem.2022.100205},\n  url = {https://eprints.whiterose.ac.uk/id/eprint/186277/}\n}",
+    "source": "https://eprints.whiterose.ac.uk/id/eprint/186277/",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "publications.md"
+  },
+  "zhao2021comparative": {
+    "title": "A Comparative Study of Using Pre-trained Language Models for Toxic Comment Classification",
+    "bibtex": "@inproceedings{zhao2021comparative,\n  title = {{A Comparative Study of Using Pre-trained Language Models for Toxic Comment Classification}},\n  author = {Zhao, Zhixue and Zhang, Ziqi and Hopfgartner, Frank},\n  year = {2021},\n  booktitle = {Companion Proceedings of the Web Conference 2021},\n  publisher = {Association for Computing Machinery},\n  doi = {10.1145/3442442.3452313},\n  url = {https://eprints.whiterose.ac.uk/id/eprint/173371/}\n}",
+    "source": "https://eprints.whiterose.ac.uk/id/eprint/173371/",
+    "verification": "source-metadata",
+    "notes": "",
+    "listed_on": "publications.md"
+  },
+  "zhao2019detecting": {
+    "title": "Detecting Toxic Content Online and the Effect of Training Data on Classification Performance",
+    "bibtex": "@misc{zhao2019detecting,\n  title = {{Detecting Toxic Content Online and the Effect of Training Data on Classification Performance}},\n  author = {Zhao, Zhixue and Zhang, Ziqi and Hopfgartner, Frank},\n  year = {2019},\n  howpublished = {EasyChair Preprint 872},\n  doi = {10.29007/z5xk},\n  url = {https://easychair.org/publications/preprint/XGmR}\n}",
+    "source": "https://easychair.org/publications/preprint/XGmR",
+    "verification": "source-metadata",
+    "notes": "Cites the linked EasyChair preprint; the website labels this CICLing 2019. No unverified proceedings details added.",
+    "listed_on": "publications.md"
+  }
+}

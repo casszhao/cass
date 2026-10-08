@@ -1,5 +1,6 @@
 ---
 layout: default
+bibtex: true
 ---
 
 ## About Me
@@ -26,123 +27,177 @@ According to [CSRankings](https://csrankings.org/#/fromyear/2024/toyear/2026/ind
 
 ## Selected Publications in 2025/26
 
+[Download all BibTeX entries]({{ "/citations.bib" | relative_url }})
+
 [KDD2026](https://arxiv.org/pdf/2511.05852) Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation
 
 Yinjie Cheng, Paul Youssef, Christin Seifert, Jörg Schlötterer, **<span style="color:grey">Zhixue Zhao</span>**
 
+{% include bibtex.html key="cheng2026finetuning" %}
+
 [EMNLP2026](https://openreview.net/pdf?id=LkZMtWhCxK) From Value Conditioning to Behavioral Shift: Lightweight Value Alignment of LLMs
 Shangrui Nie, Florian Mai, David Kaczér, Charles Welch, **<span style="color:grey">Zhixue Zhao</span>**, Lucie Flek
 
+{% include bibtex.html key="nie2026value" %}
+
 [EMNLP2026 Findings](https://arxiv.org/pdf/2604.22266) LLMs Decide Early and Explain Later: You Can Stop Them Early
 Ayan Datta, **<span style="color:grey">Zhixue Zhao</span>**, Mounika Marreddy, Bhuvanesh Verma, Radhika Mamidi, Alexander Mehler
+
+{% include bibtex.html key="datta2026early" %}
 
 [CVPR2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.pdf) SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models
 
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Tengfei Ma, Kehan Wang, Steffen Eger, Zhihua Jiang
 
+{% include bibtex.html key="Ye_2026_CVPR" %}
+
 [ICLR2026](https://arxiv.org/pdf/2505.20819?) Tracing and Reversing Edits in LLMs: A Study on Rank-One Model Edits
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Christin Seifert, Jörg Schlötterer
+
+{% include bibtex.html key="youssef2026tracing" %}
 
 [ICLR2026](https://openreview.net/pdf?id=dyooGJcKJg) PerSpectra: A Scalable and Configurable Pluralist Benchmark of Perspectives from Arguments
 
 Shangrui Nie, Kian Omoomi, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**, Charles Welch
 
+{% include bibtex.html key="nie2026perspectra" %}
+
 [AAAI26 Oral](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
 
 Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, Andre Freitas
+
+{% include bibtex.html key="valentino2026mitigating" %}
 
 
 [AAAI2026 Poster](https://ojs.aaai.org/index.php/AAAI/article/view/38650) Making Visual Dialogue More Engaging: A New Task, Method, and Metric
 
 Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</span>**, Kehan Wang, Xupeng Zha, Zhihua Jiang
 
+{% include bibtex.html key="ye2026making" %}
+
 [TACL2026](https://arxiv.org/pdf/2408.14398) Investigating Language-Specific Calibration for Pruning Multilingual Large Language Models
 
 Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
 
+{% include bibtex.html key="kurz-etal-2026-limitations" %}
+
 [ICWSM26](https://ojs.aaai.org/index.php/ICWSM/article/view/42707/50267) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
 
 Yue Li, Jake Vasilakes, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
+
+{% include bibtex.html key="li2026scrum9" %}
 
 
 [EACL2026 Main](https://arxiv.org/pdf/2512.12503) KidsArtBench: Multi-Dimensional Children’s Art Evaluation with Attribute-Aware MLLMs
 
 Mingrui Ye, Chanjin Zheng, Zengyi Yu, Chenyu Xiang, **<span style="color:grey">Zhixue Zhao</span>**, Zheng Yuan, Helen Yannakoudakis 
 
+{% include bibtex.html key="ye-etal-2026-kidsartbench" %}
+
 
 [EACL2026 Findings](https://arxiv.org/pdf/2506.06113?) Seeing All Sides: Multi-Perspective In-Context Learning for Subjective NLP
 
 Benedetta Muscato, Yue Li, Gizem Gezici, **<span style="color:grey">Zhixue Zhao</span>**, Fosca Giannotti 
+
+{% include bibtex.html key="muscato-etal-2026-seeing" %}
 
 
 [ICML2025](https://dl.acm.org/doi/abs/10.5555/3780338.3780607) Rulebreakers Challenge: Revealing a Blind Spot in Large Language Models’ Reasoning with Formal Logic.
 
 Jason Chan, Robert Gaizauskas, **<span style="color:grey">Zhixue Zhao</span>**
 
+{% include bibtex.html key="pmlr-v267-chan25a" %}
+
 
 [ICML2025](https://openreview.net/pdf?id=QLKBm1PaCU) Position: Editing Large Language Models Poses Serious Safety Risks. 
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Daniel Braun, Jörg Schlötterer, Christin Seifert
+
+{% include bibtex.html key="pmlr-v267-youssef25a" %}
 
 
 [ICLR2025](https://iclr.cc/virtual/2025/poster/27964) ScImage: How good are multimodal large language models at scientific text-to-image generation? 
 
 Leixin Zhang, Yinjie Cheng, Weihe Zhai, Steffen Eger, Jonas Belouadi, Fahimeh Moafian, **<span style="color:grey">Zhixue Zhao</span>**
 
+{% include bibtex.html key="zhang2025scimage" %}
+
 
 [EMNLP2025 Main](https://arxiv.org/pdf/2412.03400?) Minimal, Local, and Robust: Embedding-Only Edits for Implicit Bias in T2I Models
 
 Feng He, Chao Zhang, **<span style="color:grey">Zhixue Zhao</span>**
+
+{% include bibtex.html key="he-etal-2025-minimal" %}
 
 
 [EMNLP2025 Main Oral Top15%](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bwiMxxsAAAAJ&sortby=pubdate&citation_for_view=bwiMxxsAAAAJ:hqOjcs7Dif8C) Label Set Optimization via Activation Distribution Kurtosis for Zero-Shot Classification with Generative Models
 
 Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
 
+{% include bibtex.html key="li-etal-2025-label" %}
+
 
 [EMNLP2025 Main](https://arxiv.org/pdf/2508.19089) It's All About In-Context Learning! Teaching Extremely Low-Resource Languages to LLMs
 
 Yue Li, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
+
+{% include bibtex.html key="li-etal-2025-context-learning" %}
 
 	
 [EMNLP2025 Findings](QP.pdf) Revisiting Pruning vs Quantization for Small Language Models
 
 Zihan Zhou, Simon Kurz, **<span style="color:grey">Zhixue Zhao</span>**
 
+{% include bibtex.html key="zhou-etal-2025-revisiting" %}
+
 
 [EMNLP2025 Main](https://arxiv.org/abs/2508.19827) Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?
 
 Samuel Lewis-Lim, Xingwei Tan, **<span style="color:grey">Zhixue Zhao</span>**, Nikolaos Aletras
+
+{% include bibtex.html key="lewis-lim-etal-2025-analysing" %}
 
 
 [ACL2025 Main](https://aclanthology.org/2025.acl-long.1063/). Knowledge Image Matters: Improving Knowledge-Based Visual Reasoning with Multi-Image Large Language Models
 
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Xupeng Zha, Yang Liu, Zhihua Jiang
 
+{% include bibtex.html key="ye-etal-2025-knowledge" %}
+
 
 [ACL2025 Findings](https://aclanthology.org/2025.findings-acl.96/) Explainable Hallucination through Natural Language Inference Mapping
 
 Wei-Fan Chen, **<span style="color:grey">Zhixue Zhao</span>**, Akbar Karimi, Lucie Flek
+
+{% include bibtex.html key="chen-etal-2025-explainable" %}
 
 
 [Knowledge-Based Systems 2025](https://www.sciencedirect.com/science/article/pii/S0950705125016739) AI-generated content in cross-domain applications: Research trends, challenges and propositions
 
 Jianxin Li, Liang Qu, Taotao Cai, **<span style="color:grey">Zhixue Zhao</span>**, Nur Al Hasan Haldar, Aneesh Krishna, Xiangjie Kong, Flavio Romero Macau, Tanmoy Chakraborty, Aniket Deroy, Binshan Lin, Karen Blackmore, Nasimul Noman, Jingxian Cheng, Ningning Cui, Jianliang Xu
 
+{% include bibtex.html key="li2025aigc" %}
+
 
 [IEEE Transactions on Computational Social Systems](https://ieeexplore.ieee.org/document/11080351) CCDE: A Compact and Competitive Dialogue Evaluation Framework via Knowledge Distillation of Large Language Models
 
 Guanghui Ye; Huan Zhao; Bo Li; Haijiao Chen; **<span style="color:grey">Zhixue Zhao</span>**; Zhihua Jiang
 
+{% include bibtex.html key="ye2025ccde" %}
+
 [NAACL2025 Main](https://aclanthology.org/2025.naacl-long.630/) How to Make LLMs Forget: On Reversing In-Context Knowledge Edits
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 
+
+{% include bibtex.html key="youssef-etal-2025-make" %}
 
 
 [NAACL2025 Main Oral](https://aclanthology.org/2025.naacl-long.492/) Has this Fact been Edited? Detecting Knowledge Edits in Language Models?
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlötterer, Christin Seifert. 
+
+{% include bibtex.html key="youssef-etal-2025-fact" %}
 
 
 

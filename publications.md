@@ -1,47 +1,66 @@
 ---
 layout: default
+bibtex: true
 is_contact: true
 ---
 
 
 ## Publications
 
+[Download all BibTeX entries]({{ "/citations.bib" | relative_url }})
+
 [AACL2026 Findings](https://openreview.net/forum?id=bfeSYJnUNa#discussion) Edit Robustness Under Fine-Tuning in Text-to-Image Models
 
 Feng He, Marco Valentino, **<span style="color:grey">Zhixue Zhao</span>**
+
+{% include bibtex.html key="he2026editrobustness" %}
 
 [AACL2026 Findings](https://openreview.net/forum?id=I6R1yvcCFg#discussion) Think When Unsure: Leveraging Model Confidence to Decide When to Use Chain-of-Thought
 
 Samuel Lewis-Lim, Xingwei Tan, **<span style="color:grey">Zhixue Zhao</span>**, Nikolaos Aletras
 
+{% include bibtex.html key="lewislim2026think" %}
+
 [AACL2026 Findings](https://openreview.net/forum?id=aGdiFNOK82) From Early Encoding to Late Suppression: Interpreting LLMs on Character Counting Tasks
 
 Ayan Datta, Mounika Marreddy, Alexander Mehler, **<span style="color:grey">Zhixue Zhao</span>**, Radhika Mamidi
+
+{% include bibtex.html key="datta2026counting" %}
 
 
 [ECIR2025](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_30) Do LLMs Provide Consistent Answers to Health-Related Questions Across Languages? 
 
 Ipek Baris Schlicht, **<span style="color:grey">Zhixue Zhao</span>**, Burcu Sayin, Lucie Flek, Paolo Rosso 
 
+{% include bibtex.html key="schlicht2025consistent" %}
+
 
 [TACL2024 Vol. 12](https://transacl.org/index.php/tacl/article/view/6271) Investigating Hallucinations in Pruned Large Language Models for Abstractive Summarization.  
 
 George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Williams, Nikolaos Aletras. 
+
+{% include bibtex.html key="chrysostomou-etal-2024-investigating" %}
 
 
 [NAACL 2024 Main](https://arxiv.org/pdf/2403.12809) (oral presentation) Comparing Explanation Faithfulness between Multilingual and Monolingual Fine-tuned Language Models. 
 
 **<span style="color:grey">Zhixue Zhao</span>**, Nikolaos Aletras
 
+{% include bibtex.html key="zhao-aletras-2024-comparing" %}
+
 
 [JAMIA Vol.7 4(2024)](https://doi.org/10.1093/jamiaopen/ooae139) The FAIR database: facilitating access to public health research literature. 
 
 **<span style="color:grey">Zhixue Zhao</span>**, James Thomas, Gregory Kell, Claire Stansfield, Mark Clowes, Sergio Graziosi, Jeff Brunton, Iain James Marshall, Mark Stevenson. 
 
+{% include bibtex.html key="zhao2024fair" %}
+
 
 [ReLM@AAAI24](https://arxiv.org/pdf/2402.00794) Use ReAGent via [Inseq](https://inseq.org/en/latest/main_classes/feature_attribution.html#inseq.attr.feat.ReagentAttribution) ReAGent: A Model-agnostic Feature Attribution Method for Generative Language Models. 
 
 **<span style="color:grey">Zhixue Zhao</span>**, Boxuan Shan. 2024. 
+
+{% include bibtex.html key="zhao2024reagent" %}
 
 
 [ACL 2023 Main](https://aclanthology.org/2023.acl-long.261/)
@@ -49,22 +68,32 @@ George Chrysostomou, **<span style="color:grey">Zhixue Zhao</span>**, Miles Will
 
 **<span style="color:grey">Zhixue Zhao</span>**, Nikolaos Aletras
 
+{% include bibtex.html key="zhao-aletras-2023-incorporating" %}
+
 
 [EMNLP 2022 Findings](https://aclanthology.org/2022.findings-emnlp.298/) On the Impact of Temporal Concept Drift on Model Explanations. 
 
 **<span style="color:grey">Zhixue Zhao</span>**, George Chrysostomou, Kalina Bontcheva, Nikolaos Aletras
+
+{% include bibtex.html key="zhao-etal-2022-impact" %}
 
 
 [Online Social Networks and Media 2022](https://www.sciencedirect.com/science/article/abs/pii/S246869642200009X) Utilizing Subjectivity Level to Mitigate Identity Term Bias in Toxic Comments Classification. 
 
 **<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner
 
+{% include bibtex.html key="zhao2022subjectivity" %}
+
 
 [WWW2021 Companion](https://dl.acm.org/doi/abs/10.1145/3442442.3452313#:~:text=Our%20results%20show%20that%2C%20Out,such%20as%20CNN%20and%20BiLSTM.) A Comparative Study of Using Pre-trained Language Models for Toxic Comment Classification.
 
 **<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner
 
+{% include bibtex.html key="zhao2021comparative" %}
+
 
 [CICLing 2019](https://easychair.org/publications/preprint/XGmR) Detecting Toxic Content Online and the Effect of Training Data on Classification Performance. 
 
 **<span style="color:grey">Zhixue Zhao</span>**, Ziqi Zhang, Frank Hopfgartner
+
+{% include bibtex.html key="zhao2019detecting" %}
