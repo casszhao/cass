@@ -27,7 +27,6 @@ According to [CSRankings](https://csrankings.org/#/fromyear/2024/toyear/2026/ind
 
 ## Selected Publications in 2025/26
 
-[Download all BibTeX entries]({{ "/citations.bib" | relative_url }})
 
 [KDD2026](https://arxiv.org/pdf/2511.05852) Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation
 
@@ -203,7 +202,7 @@ Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Jörg Schlöttere
 
 
 (More papers in [publications](https://casszhao.github.io/cass/publications).)
-
+[Download all BibTeX entries]({{ "/citations.bib" | relative_url }})
 
 <font color=White>Test</font>
 
