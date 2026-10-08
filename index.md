@@ -31,41 +31,34 @@ According to [CSRankings](https://csrankings.org/#/fromyear/2024/toyear/2026/ind
 [KDD2026](https://arxiv.org/pdf/2511.05852) Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation
 
 Yinjie Cheng, Paul Youssef, Christin Seifert, Jörg Schlötterer, **<span style="color:grey">Zhixue Zhao</span>**
-
 {% include bibtex.html key="cheng2026finetuning" %}
 
 [EMNLP2026](https://openreview.net/pdf?id=LkZMtWhCxK) From Value Conditioning to Behavioral Shift: Lightweight Value Alignment of LLMs
 Shangrui Nie, Florian Mai, David Kaczér, Charles Welch, **<span style="color:grey">Zhixue Zhao</span>**, Lucie Flek
-
 {% include bibtex.html key="nie2026value" %}
 
 [EMNLP2026 Findings](https://arxiv.org/pdf/2604.22266) LLMs Decide Early and Explain Later: You Can Stop Them Early
 Ayan Datta, **<span style="color:grey">Zhixue Zhao</span>**, Mounika Marreddy, Bhuvanesh Verma, Radhika Mamidi, Alexander Mehler
-
 {% include bibtex.html key="datta2026early" %}
 
 [CVPR2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.pdf) SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models
 
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Tengfei Ma, Kehan Wang, Steffen Eger, Zhihua Jiang
-
 {% include bibtex.html key="Ye_2026_CVPR" %}
 
 [ICLR2026](https://arxiv.org/pdf/2505.20819?) Tracing and Reversing Edits in LLMs: A Study on Rank-One Model Edits
 
 Paul Youssef, **<span style="color:grey">Zhixue Zhao</span>**, Christin Seifert, Jörg Schlötterer
-
 {% include bibtex.html key="youssef2026tracing" %}
 
 [ICLR2026](https://openreview.net/pdf?id=dyooGJcKJg) PerSpectra: A Scalable and Configurable Pluralist Benchmark of Perspectives from Arguments
 
 Shangrui Nie, Kian Omoomi, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**, Charles Welch
-
 {% include bibtex.html key="nie2026perspectra" %}
 
 [AAAI26 Oral](https://arxiv.org/pdf/2505.12189) Mitigating Content Effects on Reasoning in Language Models through Fine-Grained Activation Steering
 
 Marco Valentino, Geonhee Kim, Dhairya Dalal, **<span style="color:grey">Zhixue Zhao</span>**, Andre Freitas
-
 {% include bibtex.html key="valentino2026mitigating" %}
 
 
@@ -78,13 +71,11 @@ Guanghui Ye, Huan Zhao, Yingxue Gao, **<span style="color:grey">Zhixue Zhao</spa
 [TACL2026](https://arxiv.org/pdf/2408.14398) Investigating Language-Specific Calibration for Pruning Multilingual Large Language Models
 
 Simon Kurz, Jian-Jia Chen, Lucie Flek, **<span style="color:grey">Zhixue Zhao</span>**
-
 {% include bibtex.html key="kurz-etal-2026-limitations" %}
 
 [ICWSM26](https://ojs.aaai.org/index.php/ICWSM/article/view/42707/50267) SCRum-9: Multilingual Stance Classification over Rumours on Social Media
 
 Yue Li, Jake Vasilakes, **<span style="color:grey">Zhixue Zhao</span>**, Carolina Scarton
-
 {% include bibtex.html key="li2026scrum9" %}
 
 
