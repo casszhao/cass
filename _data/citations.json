@@ -1,12 +1,12 @@
-@inproceedings{
-ye2026scieval,
-title={{SCIE}val: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models},
-author={Guanghui Ye and Huan Zhao and Zhixue Zhao and Tengfei Ma and Kehan Wang and Steffen Eger and Zhihua Jiang},
-booktitle={Conference on Computer Vision and Pattern Recognition 2026},
-year={2026},
-url={https://openreview.net/forum?id=S35l5fi0ZY}
-}
 {
+  "ye2026scieval": {
+    "title": "SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models",
+    "bibtex": "@inproceedings{ye2026scieval,\n  title = {{SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models}},\n  author = {Ye, Guanghui and Zhao, Huan and Zhao, Zhixue and Ma, Tengfei and Wang, Kehan and Eger, Steffen and Jiang, Zhihua},\n  year = {2026},\n  booktitle = {Conference on Computer Vision and Pattern Recognition 2026},\n  url = {https://openreview.net/forum?id=S35l5fi0ZY}\n}",
+    "source": "https://openreview.net/forum?id=S35l5fi0ZY",
+    "verification": "user-provided",
+    "notes": "",
+    "listed_on": "index.md"
+  },
   "cheng2026finetuning": {
     "title": "Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation",
     "bibtex": "@inproceedings{cheng2026finetuning,\n  title = {{Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation}},\n  author = {Cheng, Yinjie and Youssef, Paul and Seifert, Christin and Schl{\\\"o}tterer, J{\\\"o}rg and Zhao, Zhixue},\n  year = {2026},\n  booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},\n  doi = {10.1145/3770855.3817879},\n  url = {https://doi.org/10.1145/3770855.3817879}\n}",
@@ -29,14 +29,6 @@ url={https://openreview.net/forum?id=S35l5fi0ZY}
     "source": "https://arxiv.org/abs/2604.22266",
     "verification": "author-website",
     "notes": "Title, authors, venue and year follow the author website. Final publisher metadata was not accessible; no unverified pages or DOI added. Conference title and author order follow the author website; the linked arXiv version has an earlier title and different author order.",
-    "listed_on": "index.md"
-  },
-  "Ye_2026_CVPR": {
-    "title": "SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models",
-    "bibtex": "@inproceedings{Ye_2026_CVPR,\n  title = {{SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models}},\n  author = {Ye, Guanghui and Zhao, Huan and Zhao, Zhixue and Ma, Tengfei and Wang, Kehan and Eger, Steffen and Jiang, Zhihua},\n  year = {2026},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  pages = {29760--29770},\n  month = {June},\n  url = {https://openaccess.thecvf.com/content/CVPR2026/html/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.html}\n}",
-    "source": "https://openaccess.thecvf.com/content/CVPR2026/html/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.html",
-    "verification": "source-metadata",
-    "notes": "",
     "listed_on": "index.md"
   },
   "youssef2026tracing": {
