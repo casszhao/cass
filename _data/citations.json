@@ -1,3 +1,11 @@
+@inproceedings{
+ye2026scieval,
+title={{SCIE}val: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models},
+author={Guanghui Ye and Huan Zhao and Zhixue Zhao and Tengfei Ma and Kehan Wang and Steffen Eger and Zhihua Jiang},
+booktitle={Conference on Computer Vision and Pattern Recognition 2026},
+year={2026},
+url={https://openreview.net/forum?id=S35l5fi0ZY}
+}
 {
   "cheng2026finetuning": {
     "title": "Can Fine-Tuning Erase Your Edits? On the Fragile Coexistence of Knowledge Editing and Adaptation",
