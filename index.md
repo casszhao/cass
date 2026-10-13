@@ -44,7 +44,7 @@ Ayan Datta, **<span style="color:grey">Zhixue Zhao</span>**, Mounika Marreddy, B
 [CVPR2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Ye_SCIEval_Evaluating_and_Benchmarking_the_Faithfulness_of_Scientific_Image_Generation_CVPR_2026_paper.pdf) SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models
 
 Guanghui Ye, Huan Zhao, **<span style="color:grey">Zhixue Zhao</span>**, Tengfei Ma, Kehan Wang, Steffen Eger, Zhihua Jiang
-{% include bibtex.html key="Ye_2026_CVPR" %}
+{% include bibtex.html key="ye2026scieval" %}
 
 [ICLR2026](https://arxiv.org/pdf/2505.20819?) Tracing and Reversing Edits in LLMs: A Study on Rank-One Model Edits
 
